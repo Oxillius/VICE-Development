@@ -1163,7 +1163,7 @@
       "arrivals": {
         "BLFRG2": {
           "KTPA": 5,
-          "KPIE": 2
+          "KPIE": 0
         },
         "DADES1": {
           "KTPA": 5,
@@ -1175,17 +1175,17 @@
         },
         "RAYZZ2": {
           "KTPA": 5,
-          "KSRQ": 1,
-          "KPIE": 1,
+          "KSRQ": 0,
+          "KPIE": 0,
           "KLAL": 0
         },
         "BANGZ1": {
-          "KSRQ": 2,
-          "KPIE": 1
+          "KSRQ": 0,
+          "KPIE": 0
         },
         "LUBBR3": {
-          "KSRQ": 2,
-          "KPIE": 1
+          "KSRQ": 0,
+          "KPIE": 0
         }
       },
       "solo_controller": "TPA_APP",
@@ -1384,6 +1384,16 @@
       }
     }
   },
+  "scratchpads": {
+    "SABEE": "SAB",
+    "HALLR": "HAL",
+    "CAMJO": "CAM",
+    "LACEN": "LAC",
+    "FROOT": "FRO",
+    "MOMIE": "MOM",
+    "SIMMR": "SIM",
+    "WILON": "WIL"
+  },
   "stars_maps": [
     {
       "group": 0,
@@ -1460,6 +1470,5 @@
     "label": "E SHELF",
     "name": "TPA-268S EAST SHELF"
     }
-  ],
-  "video_map_file": "videomaps/ZMA-videomaps.json.zst"
+  ]
 }
