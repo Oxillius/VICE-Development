@@ -1,7 +1,7 @@
 {
   "tracon": "TPA (Tampa)",
-  "airports": {
-    "KTPA": {
+  "airports": { 
+    "KTPA": { 
       "approaches": {
         "I1L": {
           "full_name": "ILS Runway 1L",
@@ -539,7 +539,7 @@
       "location": "N27.54.31.081,W82.41.11.436",
       "tower_list": 3
     },
-    "KLAL": {
+    "KLAL": { 
       "approaches": {
         "I10": {
           "full_name": "ILS Runway 10",
@@ -571,6 +571,159 @@
         }
       },
       "location": "N27.59.15.500,W82.01.08.400"
+    }
+  },
+  "airspace": {
+    "boundaries": {
+      "TPA BORDER MAIN": [
+        "N028.09.31.213,W083.12.29.954",
+        "N028.44.28.956,W082.43.00.084",
+        "N028.37.59.759,W082.02.29.963",
+        "N028.33.49.607,W081.57.25.367",
+        "N028.22.29.382,W081.58.08.159",
+        "N028.09.44.177,W081.54.42.412",
+        "N028.11.07.275,W081.55.06.967",
+        "N028.05.59.040,W081.53.30.260",
+        "N028.00.28.543,W081.49.59.981",
+        "N027.56.00.587,W081.49.59.954",
+        "N027.47.00.039,W081.59.00.948",
+        "N027.46.00.095,W082.04.00.133",
+        "N027.35.04.204,W082.09.45.214",
+        "N027.14.45.250,W082.19.59.157",
+        "N027.11.00.086,W082.43.59.987",
+        "N027.32.06.844,W083.08.54.649",
+        "N028.09.31.213,W083.12.29.954"
+      ],
+      "TPA BORDER LAL": [
+        "N028.09.44.177,W081.54.42.412",
+        "N028.06.00.008,W081.39.59.798",
+        "N027.56.59.673,W081.39.59.276",
+        "N027.46.50.289,W081.48.20.061",
+        "N027.47.00.039,W081.59.00.948",
+        "N027.56.00.587,W081.49.59.954",
+        "N028.00.28.543,W081.49.59.981",
+        "N028.05.59.040,W081.53.30.260",
+        "N028.11.07.275,W081.55.06.967",
+        "N028.09.44.177,W081.54.42.412"
+      ],
+      "TPA BORDER SRQ": [
+        "N27.25.05.826,W82.15.00.394", 
+        "N27.04.15.703,W82.05.18.541",
+        "N27.02.42.418,W82.09.38.064",
+        "N27.00.43.386,W82.17.02.128",
+        "N27.00.08.640,W82.20.03.448",
+        "N26.59.53.080,W82.21.42.426",
+        "N26.59.30.491,W82.24.44.914",
+        "N26.59.09.697,W82.29.15.720",
+        "N26.59.06.768,W82.34.40.377",
+        "N26.59.18.468,W82.38.31.588",
+        "N27.10.59.559,W82.43.59.703",
+        "N27.14.44.255,W82.20.00.723",
+        "N27.25.05.826,W82.15.00.394"
+      ],
+      "FINALS 1 (N OPS)": [
+        "N27.58.14.104,W82.31.43.522",
+        "N27.58.01.838,W82.23.17.913",
+        "N27.36.01.146,W82.23.19.706",
+        "N27.35.15.089,W82.25.24.231",
+        "N27.34.29.870,W82.28.40.172",
+        "N27.34.06.635,W82.32.59.275",
+        "N27.34.35.708,W82.37.17.308",
+        "N27.35.11.044,W82.39.40.163",
+        "N27.43.29.927,W82.39.19.034",
+        "N27.54.24.115,W82.30.08.948",
+        "N27.58.14.104,W82.31.43.522"
+      ],
+      "FINALS 2 (N OPS)": [
+        "N27.58.14.104,W82.31.43.522",
+        "N27.58.24.507,W82.38.41.804",
+        "N27.43.29.927,W82.39.19.034",
+        "N27.54.24.115,W82.30.08.948",
+        "N27.58.14.104,W82.31.43.522"
+      ],
+      "SOUTH SATELLITE (N OPS)": [
+        "N27.45.55.357,W82.23.19.300",
+        "N27.42.05.748,W82.21.07.128",
+        "N27.35.04.137,W82.09.44.506",
+        "N27.25.05.826,W82.15.00.394",
+        "N27.04.15.703,W82.05.18.541",
+        "N27.02.42.418,W82.09.38.064",
+        "N27.00.43.386,W82.17.02.128",
+        "N27.00.08.640,W82.20.03.448",
+        "N26.59.53.080,W82.21.42.426",
+        "N26.59.30.491,W82.24.44.914",
+        "N26.59.09.697,W82.29.15.720",
+        "N26.59.06.768,W82.34.40.377",
+        "N26.59.18.468,W82.38.31.588",
+        "N27.10.59.559,W82.43.59.703",
+        "N27.29.59.808,W83.06.29.796",
+        "N27.38.28.705,W82.44.00.944",
+        "N27.43.29.927,W82.39.19.034",
+        "N27.35.11.044,W82.39.40.163",
+        "N27.34.35.708,W82.37.17.308",
+        "N27.34.06.635,W82.32.59.275",
+        "N27.34.29.870,W82.28.40.172",
+        "N27.35.15.089,W82.25.24.231",
+        "N27.36.01.146,W82.23.19.706",
+        "N27.45.55.357,W82.23.19.300"
+      ]
+    },
+    "volumes": {
+      "MULTIPLAYER": [
+        {
+          "boundaries": [
+            "TPA BORDER MAIN"
+          ],
+          "lower": 0,
+          "upper": 12000
+        },
+        {
+          "boundaries": [
+            "TPA BORDER LAL"
+          ],
+          "lower": 0,
+          "upper": 3000
+        },
+        {
+          "boundaries": [
+            "TPA BORDER SRQ"
+          ],
+          "lower": 0,
+          "upper": 10000
+        }
+      ],
+      "TPA_F_APP": [
+        {
+          "boundaries": [
+            "FINALS 1 (N OPS)"
+          ],
+          "lower": 3000,
+          "upper": 5000
+        },
+        {
+          "boundaries": [
+            "FINALS 2 (N OPS)"
+          ],
+          "lower": 0,
+          "upper": 5000
+        }
+      ],
+      "TPA_S_APP": [
+        {
+          "boundaries": [
+            "FINALS 1 (N OPS)"
+          ],
+          "lower": 0,
+          "upper": 2000
+        },
+        {
+          "boundaries": [
+            "SOUTH SATELLITE (N OPS)"
+          ],
+          "lower": 0,
+          "upper": 4000
+        }
+      ]
     }
   },
   "arrival_groups": {
@@ -705,7 +858,7 @@
           "14": "BANGZ KIDLE ALROE MAHAR PASOE/a3000/h140"
         },
         "speed_restriction": 250,
-        "waypoints": "N028.23.05.581,W083.17.00.465/ho BANGZ/a7000-13000"
+        "waypoints": "N028.26.12.809,W083.18.32.173 N028.23.05.581,W083.17.00.465/ho BANGZ/a7000-13000"
       }
     ],
     "RAYZZ2": [
@@ -783,7 +936,7 @@
           "28": "RAYZZ SHKRA/h090"
         },
         "speed_restriction": 250,
-        "waypoints": "N027.52.28.049,W083.30.46.444/ho RAYZZ/a10000"
+        "waypoints": "N027.52.35.980,W083.27.30.997 N027.53.32.299,W083.21.47.785/ho RAYZZ/a10000"
       }
     ],
     "MAATY4": [
@@ -868,7 +1021,7 @@
           "28": "MAATY GOOFS/a11000/h155"
         },
         "speed_restriction": 250,
-        "waypoints": "N028.39.12.145,W083.09.01.653/ho AAHOY MAATY/a11000"
+        "waypoints": "N028.43.52.097,W083.11.46.146 N028.39.12.145,W083.09.01.653/ho AAHOY MAATY/a11000"
       }
     ],
     "DADES1": [
@@ -929,7 +1082,7 @@
             }
           ]
         },
-        "initial_altitude": 14500,
+        "initial_altitude": 16000,
         "initial_controller" : "JAX_30_CTR",
         "initial_speed": 290,
         "star": "DADES1",
@@ -942,7 +1095,7 @@
           "18": "DADES GSPAR/h180"
         },
         "speed_restriction": 250,
-        "waypoints": "N028.49.22.326,W082.15.48.312/ho OLENE/a13000/ho MARVI KOKOH DADES"
+        "waypoints": "N028.57.02.646,W082.18.37.694 N028.47.35.030,W082.16.02.155/ho OLENE/a13000/ho MARVI KOKOH DADES"
       }
     ],
     "BLFRG2": [
@@ -1000,7 +1153,7 @@
           "18": "DSIDE OXISE/a4000+/h285"
         },
         "speed_restriction": 250,
-        "waypoints": "N027.16.38.561,W082.00.10.876 N027.18.49.669,W082.02.00.629/ho COSAR DSIDE/a11000"
+        "waypoints": "N027.13.18.850,W081.56.09.808 N027.18.49.669,W082.02.00.629/ho COSAR DSIDE/a11000"
       }
     ]
   },
@@ -1018,12 +1171,17 @@
       "scope_char": "J",
       "sector_id": "J30"
     },
-
-    "TPA_APP": {
-      "frequency": 118150,
-      "full_name": "Tampa Approach",
+    "MCO_E_APP": {
+      "frequency": 124800,
+      "full_name": "Orlando approach",
       "scope_char": "E",
-      "sector_id": "1E"
+      "sector_id": "4E"
+    },
+    "JAX_N_APP": {
+      "frequency": 127000,
+      "full_name": "Jacksonville approach",
+      "scope_char": "N",
+      "sector_id": "3N"
     },
 
     "TPA_E_APP": {
@@ -1123,21 +1281,61 @@
     "_LAL_10": "N27.59.21.253,W82.02.01.927",
     "_LAL_28": "N27.59.21.458,W82.00.27.118"
   },
+  "inhibit_ca_volumes": [
+    {
+      "name": "TPA FINAL S OPS",
+      "type": "polygon",
+      "floor": 0,
+      "ceiling": 4000,
+      "vertices": [
+        "27.983951245628674, -82.54812222227956", 
+        "27.983951245628674, -82.52107947624592",
+        "28.124652499162792, -82.518646907564",
+        "28.12433203473867, -82.54735306378981",
+        "27.983951245628674, -82.54812222227956"
+      ]
+    },
+    {
+      "name": "TPA FINAL N OPS",
+      "type": "polygon",
+      "floor": 0,
+      "ceiling": 4000,
+      "vertices": [
+        "27.965545252565974, -82.55140404943857", 
+        "27.795795931807888, -82.55481810916585",
+        "27.79617344729067, -82.52195778428637",
+        "27.965545252565974, -82.52025075442216",
+        "27.965545252565974, -82.55140404943857"
+      ]
+    }
+  ],
   "magnetic_variation": 5.7,
   "name": "KTPA",
   "primary_airport": "KTPA",
   "radar_sites": {
     "TPA": {
       "char": "T",
-      "position": "27.993489743098966,-82.5363788148268",
+      "position": "27.986955995499628, -82.52052319213867",
       "elevation": 120,
       "primary_range": 60,
       "secondary_range": 120,
+      "slope_angle": 0.175
+    },
+    "MCO": {
+      "char": "M",
+      "position": "28.394833, -81.304639",
+      "elevation": 100,
+      "primary_range": 60,
+      "secondary_range": 120,
+      "silence_angle": 50.4,
       "slope_angle": 0.175
     }
   },
   "scenarios": {
     "KTPA North": {
+      "approach_airspace": [
+        "MULTIPLAYER"
+      ],
       "arrival_runways": [
         {
           "airport": "KTPA",
@@ -1163,7 +1361,7 @@
       "arrivals": {
         "BLFRG2": {
           "KTPA": 5,
-          "KPIE": 0
+          "KPIE": 2
         },
         "DADES1": {
           "KTPA": 5,
@@ -1175,20 +1373,20 @@
         },
         "RAYZZ2": {
           "KTPA": 5,
-          "KSRQ": 0,
-          "KPIE": 0,
+          "KSRQ": 1,
+          "KPIE": 1,
           "KLAL": 0
         },
         "BANGZ1": {
-          "KSRQ": 0,
-          "KPIE": 0
+          "KSRQ": 2,
+          "KPIE": 1
         },
         "LUBBR3": {
-          "KSRQ": 0,
-          "KPIE": 0
+          "KSRQ": 2,
+          "KPIE": 1
         }
       },
-      "solo_controller": "TPA_APP",
+      "solo_controller": "TPA_E_APP",
       "multi_controllers": {
         "default" : {
             "TPA_E_APP": {"primary": true, "arrivals": ["BLFRG2", "DADES1", "LUBBR3"]},
@@ -1203,6 +1401,8 @@
       "controllers": [
         "MIA_46_CTR",
         "JAX_30_CTR",
+        "MCO_E_APP",
+        "JAX_N_APP",
         "TPA_W_TWR",
         "TPA_E_TWR",
         "PIE_TWR",
@@ -1210,46 +1410,49 @@
         "LAL_TWR"
       ],
       "default_maps": ["TPA-127S MID MAP"],
+      "departure_airspace": [
+        "MULTIPLAYER"
+      ],
       "departure_runways": [
         {
           "airport": "KPIE",
-          "rate": 5,
+          "rate": 3,
           "runway": "36",
           "category": "MAEKO"
         },
         {
           "airport": "KSRQ",
-          "rate": 5,
+          "rate": 3,
           "runway": "32",
           "category": "SRKUS"
         },
         {
           "airport": "KTPA",
-          "rate": 4,
+          "rate": 5,
           "runway": "1L",
           "category": "BAYPO"
         },
         {
           "airport": "KTPA",
-          "rate": 4,
+          "rate": 5,
           "runway": "1L",
           "category": "CROWD"
         },
         {
           "airport": "KTPA",
-          "rate": 4,
+          "rate": 5,
           "runway": "1L",
           "category": "DORMR"
         },
         {
           "airport": "KTPA",
-          "rate": 4,
+          "rate": 5,
           "runway": "1L",
           "category": "ENDED"
         },
         {
           "airport": "KTPA",
-          "rate": 4,
+          "rate": 5,
           "runway": "1L",
           "category": "GANDY"
         }
@@ -1261,6 +1464,9 @@
       }
     },
     "KTPA South": {
+      "approach_airspace": [
+        "MULTIPLAYER"
+      ],
       "arrival_runways": [
         {
           "airport": "KTPA",
@@ -1311,7 +1517,7 @@
           "KPIE": 1
         }
       },
-      "solo_controller": "TPA_APP",
+      "solo_controller": "TPA_E_APP",
       "multi_controllers": {
         "default" : {
             "TPA_E_APP": {"primary": true, "arrivals": ["BLFRG2", "DADES1", "LUBBR3"]},
@@ -1326,6 +1532,8 @@
       "controllers": [
         "MIA_46_CTR",
         "JAX_30_CTR",
+        "MCO_E_APP",
+        "JAX_N_APP",
         "TPA_W_TWR",
         "TPA_E_TWR",
         "PIE_TWR",
@@ -1333,46 +1541,49 @@
         "LAL_TWR"
       ],
       "default_maps": ["TPA-127S MID MAP"],
+      "departure_airspace": [
+        "MULTIPLAYER"
+      ],
       "departure_runways": [
         {
           "airport": "KPIE",
-          "rate": 5,
+          "rate": 3,
           "runway": "18",
           "category": "MAEKO"
         },
         {
           "airport": "KSRQ",
-          "rate": 5,
+          "rate": 3,
           "runway": "14",
           "category": "SRKUS"
         },
         {
           "airport": "KTPA",
-          "rate": 4,
+          "rate": 5,
           "runway": "19R",
           "category": "BAYPO"
         },
         {
           "airport": "KTPA",
-          "rate": 4,
+          "rate": 5,
           "runway": "19R",
           "category": "CROWD"
         },
         {
           "airport": "KTPA",
-          "rate": 4,
+          "rate": 5,
           "runway": "19R",
           "category": "DORMR"
         },
         {
           "airport": "KTPA",
-          "rate": 4,
+          "rate": 5,
           "runway": "19R",
           "category": "ENDED"
         },
         {
           "airport": "KTPA",
-          "rate": 4,
+          "rate": 5,
           "runway": "19R",
           "category": "GANDY"
         }
