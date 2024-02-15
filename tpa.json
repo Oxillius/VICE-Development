@@ -1,4 +1,11 @@
 {
+  "TODO": [
+    "FIX DEPARTURES NOT CLIMBING (USE AAC)",
+    "FIX NW SID PLANES NOT DESCEND VIA GOING TO SRQ",
+    "FIX SCRATCHPADS",
+    "DIVERSIFY DEPARTURES",
+  ],
+
   "tracon": "TPA (Tampa)",
   "airports": { 
     "KTPA": { 
@@ -1095,7 +1102,7 @@
           "18": "DADES GSPAR/h180"
         },
         "speed_restriction": 250,
-        "waypoints": "N028.57.02.646,W082.18.37.694 N028.47.35.030,W082.16.02.155/ho OLENE/a13000/ho MARVI KOKOH DADES"
+        "waypoints": "N028.57.02.646,W082.18.37.694 N028.47.35.030,W082.16.02.155/ho OLENE/a13000 MARVI KOKOH DADES"
       }
     ],
     "BLFRG2": [
