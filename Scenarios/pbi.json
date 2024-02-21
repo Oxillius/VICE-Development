@@ -1049,185 +1049,187 @@
     }
   },
   "stars_maps": [
-        {
-            "group": 1,
-            "label": "M-ALL-E",
-            "name": "PBI-407S ALL FINALS EAST"
-        },
-        {
-            "group": 1,
-            "label": "M-ALL-W",
-            "name": "PBI-408S ALL FINALS WEST"
-        },
-        {
-            "group": 1,
-            "label": "PBI-C",
-            "name": "PBI-100S PBI CLASS C AIRSPACE"
-        },
-        {
-            "group": 1,
-            "label": "FIXES",
-            "name": "PBI-409S ALL WAYPOINTS LABELED"
-        },
-        {
-            "group": 1,
-            "label": "EMER",
-            "name": "PBI-911S EMERGENCY"
-        },
-        {
-            "group": 1,
-            "label": "MVA-3",
-            "name": "PBI-303S MVA FUS3"
-        },
-        {
-            "group": 1,
-            "label": "PBI-10L",
-            "name": "PBI-027S PBI RWY 10L FINAL"
-        },
-        {
-            "group": 1,
-            "label": "PBI-28R",
-            "name": "PBI-030S PBI RWY 28R FINAL"
-        },
-        {
-            "group": 1,
-            "label": "PBI-14",
-            "name": "PBI-028S PBI RWY 14 FINAL"
-        },
-        {
-            "group": 1,
-            "label": "PBI-32",
-            "name": "PBI-031S PBI RWY 32 FINAL"
-        },
-        {
-            "group": 1,
-            "label": "BCT-5",
-            "name": "PBI-036S BCT RWY 5 FINAL"
-        },
-        {
-            "group": 1,
-            "label": "BCT-23",
-            "name": "PBI-037S BCT RWY 23 FINAL"
-        },
-        {
-            "group": 1,
-            "label": "F45-9R",
-            "name": "PBI-039S F45 RWY 9R FINAL"
-        },
-        {
-            "group": 1,
-            "label": "F45-27L",
-            "name": "PBI-041S F45 RWY 27L FINAL"
-        },
-        {
-            "group": 1,
-            "label": "F45-14",
-            "name": "PBI-040S F45 RWY 14 FINAL"
-        },
-        {
-            "group": 1,
-            "label": "LNA-34",
-            "name": "PBI-044S LNA RWY 34 FINAL"
-        },
-        {
-            "group": 1,
-            "label": "LNA-10",
-            "name": "PBI-042S LNA RWY 10 FINAL"
-        },
-        {
-            "group": 1,
-            "label": "LNA-28",
-            "name": "PBI-043S LNA RWY 28 FINAL"
-        },
-        {
-            "group": 1,
-            "label": "PHK-18",
-            "name": "PBI-045S PHK RWY 18 FINAL"
-        },
-        {
-            "group": 1,
-            "label": "PHK-36",
-            "name": "PBI-046S PHK RWY 36 FINAL"
-        },
-        {
-            "group": 1,
-            "label": "SUA-12",
-            "name": "PBI-060S SUA RWY 12 FINAL"
-        },
-        {
-            "group": 1,
-            "label": "SUA-30",
-            "name": "PBI-061S SUA RWY 30 FINAL"
-        },
-        {
-            "group": 1,
-            "label": "OBE-RWY",
-            "name": "PBI-481S OBE RWYS"
-        },
-        {
-            "group": 1,
-            "label": "06FA-9",
-            "name": "PBI-035S 06FA RWY 9 FINAL"
-        },
-        {
-            "group": 1,
-            "label": "T-RTE-N",
-            "name": "PBI-490S T-ROUTES NORTH LABELED"
-        },
-        {
-            "group": 1,
-            "label": "T-RTE-S",
-            "name": "PBI-491S T-ROUTES SOUTH LABELED"
-        },
-        {
-            "group": 1,
-            "label": "BE-LBL",
-            "name": "PBI-422S B SID EAST"
-        },
-        {
-            "group": 1,
-            "label": "BW-LBL",
-            "name": "PBI-423S B SID WEST"
-        },
-        {
-            "group": 1,
-            "label": "IE-LBL",
-            "name": "PBI-424S I STAR EAST"
-        },
-        {
-            "group": 1,
-            "label": "IW-LBL",
-            "name": "PBI-425S I STAR WEST"
-        },
-        {
-            "group": 1,
-            "label": "PE-LBL",
-            "name": "PBI-448S P STAR EAST"
-        },
-        {
-            "group": 1,
-            "label": "PW-LBL",
-            "name": "PBI-449S P STAR WEST"
-        },
-        {
-            "group": 1,
-            "label": "BCT-SID",
-            "name": "PBI-447S BCT SIDS"
-        },
-        {
-            "group": 1,
-            "label": "PBI32WP",
-            "name": "PBI-434S PBI RWY 32 WAYPOINTS"
-        },
-        {
-            "group": 1,
-            "label": "A EAST",
-            "name": "PBI-414S A AIRSPACE EAST"
-        },
-        {
-            "group": 1,
-            "label": "A WEST",
-            "name": "PBI-415S A AIRSPACE WEST"
-        }
+    {
+      "group": 1,
+      "label": "M-ALL-E",
+      "name": "PBI-407S ALL FINALS EAST"
+    },
+    {
+      "group": 1,
+      "label": "M-ALL-W",
+      "name": "PBI-408S ALL FINALS WEST"
+    },
+    {
+      "group": 1,
+      "label": "PBI-C",
+      "name": "PBI-100S PBI CLASS C AIRSPACE"
+    },
+    {
+      "group": 1,
+      "label": "FIXES",
+      "name": "PBI-409S ALL WAYPOINTS LABELED"
+    },
+    {
+      "group": 1,
+      "label": "EMER",
+      "name": "PBI-911S EMERGENCY"
+    },
+    {
+      "group": 1,
+      "label": "MVA-3",
+      "name": "PBI-303S MVA FUS3"
+    },
+    {
+      "group": 1,
+      "label": "PBI-10L",
+      "name": "PBI-027S PBI RWY 10L FINAL"
+    },
+    {
+      "group": 1,
+      "label": "PBI-28R",
+      "name": "PBI-030S PBI RWY 28R FINAL"
+    },
+    {
+      "group": 1,
+      "label": "PBI-14",
+      "name": "PBI-028S PBI RWY 14 FINAL"
+    },
+    {
+      "group": 1,
+      "label": "PBI-32",
+      "name": "PBI-031S PBI RWY 32 FINAL"
+    },
+    {
+      "group": 1,
+      "label": "BCT-5",
+      "name": "PBI-036S BCT RWY 5 FINAL"
+    },
+    {
+      "group": 1,
+      "label": "BCT-23",
+      "name": "PBI-037S BCT RWY 23 FINAL"
+    },
+    {
+      "group": 1,
+      "label": "F45-9R",
+      "name": "PBI-039S F45 RWY 9R FINAL"
+    },
+    {
+      "group": 1,
+      "label": "F45-27L",
+      "name": "PBI-041S F45 RWY 27L FINAL"
+    },
+    {
+      "group": 1,
+      "label": "F45-14",
+      "name": "PBI-040S F45 RWY 14 FINAL"
+    },
+    {
+      "group": 1,
+      "label": "LNA-34",
+      "name": "PBI-044S LNA RWY 34 FINAL"
+    },
+    {
+      "group": 1,
+      "label": "LNA-10",
+      "name": "PBI-042S LNA RWY 10 FINAL"
+    },
+    {
+      "group": 1,
+      "label": "LNA-28",
+      "name": "PBI-043S LNA RWY 28 FINAL"
+    },
+    {
+      "group": 1,
+      "label": "PHK-18",
+      "name": "PBI-045S PHK RWY 18 FINAL"
+    },
+    {
+      "group": 1,
+      "label": "PHK-36",
+      "name": "PBI-046S PHK RWY 36 FINAL"
+    },
+    {
+      "group": 1,
+      "label": "SUA-12",
+      "name": "PBI-060S SUA RWY 12 FINAL"
+    },
+    {
+      "group": 1,
+      "label": "SUA-30",
+      "name": "PBI-061S SUA RWY 30 FINAL"
+    },
+    {
+      "group": 1,
+      "label": "OBE-RWY",
+      "name": "PBI-481S OBE RWYS"
+    },
+    {
+      "group": 1,
+      "label": "06FA-9",
+      "name": "PBI-035S 06FA RWY 9 FINAL"
+    },
+    {
+      "group": 1,
+      "label": "T-RTE-N",
+      "name": "PBI-490S T-ROUTES NORTH LABELED"
+    },
+    {
+      "group": 1,
+      "label": "T-RTE-S",
+      "name": "PBI-491S T-ROUTES SOUTH LABELED"
+    },
+    {
+      "group": 1,
+      "label": "BE-LBL",
+      "name": "PBI-422S B SID EAST"
+    },
+    {
+      "group": 1,
+      "label": "BW-LBL",
+      "name": "PBI-423S B SID WEST"
+    },
+    {
+      "group": 1,
+      "label": "IE-LBL",
+      "name": "PBI-424S I STAR EAST"
+    },
+    {
+      "group": 1,
+      "label": "IW-LBL",
+      "name": "PBI-425S I STAR WEST"
+    },
+    {
+      "group": 1,
+      "label": "PE-LBL",
+      "name": "PBI-448S P STAR EAST"
+    },
+    {
+      "group": 1,
+      "label": "PW-LBL",
+      "name": "PBI-449S P STAR WEST"
+    },
+    {
+      "group": 1,
+      "label": "BCT-SID",
+      "name": "PBI-447S BCT SIDS"
+    },
+    {
+      "group": 1,
+      "label": "PBI32WP",
+      "name": "PBI-434S PBI RWY 32 WAYPOINTS"
+    },
+    {
+      "group": 1,
+      "label": "A EAST",
+      "name": "PBI-414S A AIRSPACE EAST"
+    },
+    {
+      "group": 1,
+      "label": "A WEST",
+      "name": "PBI-415S A AIRSPACE WEST"
+    }
   ]
 }
+
+te
