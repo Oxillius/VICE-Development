@@ -1,0 +1,30 @@
+{
+  "TPA TRACON DEPARTURES": {
+    "KTPA": {
+			"TOTAL": 19,
+      "CAMJO (B)": 4,
+      "WILON (B)": 0,
+      "HALLR (C)": 2,
+      "FROOT (D)": 5,
+      "CIGAR (D)": 0,
+      "LACEN (E)": 4,
+      "SABEE (G)": 4,
+      "REMIS (K)": 0
+    },
+		"KSRQ": {
+			"TOTAL": 11,
+      "CAMJO (S)": 5,
+      "MOMIE (S)": 4,
+      "SIMMR (S)": 2
+    },
+    "KPIE": {
+			"TOTAL": 0,
+      "CAMJO (M)": 0,
+      "MOMIE (M)": 0,
+      "SIMMR (M)": 0
+    }
+  },
+  "TPA TRACON ARRIVALS": {
+    
+  }
+}

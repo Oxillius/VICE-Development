@@ -6,11 +6,11 @@ These scenarios have been made in accordance with the [Vice ATC Simulator Docume
 <h3>Change Directory (CD):</h3>
 
 ```
-cd do this later
+cd C:\Program Files (x86)\Vice
 ```
 
 <h3>Testing Singleplayer:</h3>
 
 ```
-vice.exe -scenario /Users/connor/Documents/Vice Testing/tpa.json -videomap /Users/connor/Documents/Vice Testing/ZMA-videomaps.json.zst
+vice.exe -scenario "C:\Users\conno\Documents\Vice ATC Testing\tpa.json" -videomap "C:\Users\conno\Documents\Vice ATC Testing\ZMA-videomaps.json"
 ```
