@@ -12,5 +12,5 @@ cd C:\Program Files (x86)\Vice
 <h3>Testing Singleplayer:</h3>
 
 ```
-vice.exe -scenario "C:\Users\conno\Documents\Vice ATC Testing\tpa.json" -videomap "C:\Users\conno\Documents\Vice ATC Testing\ZMA-videomaps.json"
+vice.exe -scenario "C:\Users\conno\Documents\GitHub\VICE-Development\Scenarios\tpa.json" -videomap "C:\Users\conno\Documents\GitHub\VICE-Development\Resources\ZMA-videomaps.json"
 ```
