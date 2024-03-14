@@ -88,7 +88,7 @@
           "below_altitude_tolerance": 800,
 
           "reference_point": "25.8002,-80.30465",
-          "reference_heading": 125.5,
+          "reference_heading": 126.1,
           "reference_length": 30,
           "reference_altitude": 0
         },
@@ -106,7 +106,7 @@
           "below_altitude_tolerance": 800,
 
           "reference_point": "25.8002,-80.30465",
-          "reference_heading": 92,
+          "reference_heading": 93.8,
           "reference_length": 30,
           "reference_altitude": 0
         },
@@ -124,7 +124,7 @@
           "below_altitude_tolerance": 800,
 
           "reference_point": "25.78748,-80.27923",
-          "reference_heading": 304,
+          "reference_heading": 306.2,
           "reference_length": 30,
           "reference_altitude": 0
         },
@@ -142,7 +142,7 @@
           "below_altitude_tolerance": 1800,
 
           "reference_point": "25.78748,-80.27923",
-          "reference_heading": 272,
+          "reference_heading": 273.9,
           "reference_length": 30,
           "reference_altitude": 0
         }
@@ -3881,31 +3881,31 @@
       ],
       "arrivals": {
         "BHHIA3": {
-          "KFLL": 4
+          "KFLL": 3
         },
         "CUUDA3": {
-          "KFLL": 14
+          "KFLL": 12
         },
         "OLAHS3": {
-          "KFLL": 6
+          "KFLL": 5
         },
         "TEEKY3": {
-          "KFLL": 10
+          "KFLL": 8
         },
         "CSTAL2": {
-          "KMIA": 6
+          "KMIA": 5
         },
         "BNFSH2": {
-          "KMIA": 14
-        },
-        "FROGZ4": {
           "KMIA": 12
         },
+        "FROGZ4": {
+          "KMIA": 10
+        },
         "SNDBR3": {
-          "KMIA": 8
+          "KMIA": 7
         },
         "VIICE2": {
-          "KMIA": 10
+          "KMIA": 8
         }
       },
       "solo_controller": "MIA_V_APP",
@@ -3941,24 +3941,24 @@
       "departure_runways": [
         {
           "airport": "KMIA",
-          "rate": 18,
+          "rate": 16,
           "runway": "8R",
           "category": "North"
         },
         {
           "airport": "KMIA",
-          "rate": 12,
+          "rate": 10,
           "runway": "12",
           "category": "South"
         },
         {
           "airport": "KFLL",
-          "rate": 8,
+          "rate": 6,
           "runway": "10L"
         },
         {
           "airport": "KFLL",
-          "rate": 8,
+          "rate": 6,
           "runway": "10R"
         }
       ],
@@ -3992,31 +3992,31 @@
       ],
       "arrivals": {
         "BHHIA3": {
-          "KFLL": 4
+          "KFLL": 3
         },
         "CUUDA3": {
-          "KFLL": 14
+          "KFLL": 12
         },
         "OLAHS3": {
-          "KFLL": 6
+          "KFLL": 5
         },
         "TEEKY3": {
-          "KFLL": 10
+          "KFLL": 8
         },
         "CSTAL2": {
-          "KMIA": 6
+          "KMIA": 5
         },
         "BNFSH2": {
-          "KMIA": 14
-        },
-        "FROGZ4": {
           "KMIA": 12
         },
+        "FROGZ4": {
+          "KMIA": 10
+        },
         "SNDBR3": {
-          "KMIA": 8
+          "KMIA": 7
         },
         "VIICE2": {
-          "KMIA": 10
+          "KMIA": 8
         }
       },
       "solo_controller": "MIA_V_APP",
@@ -4052,24 +4052,24 @@
       "departure_runways": [
         {
           "airport": "KMIA",
-          "rate": 18,
+          "rate": 16,
           "runway": "26L",
           "category": "North"
         },
         {
           "airport": "KMIA",
-          "rate": 12,
+          "rate": 10,
           "runway": "27",
           "category": "South"
         },
         {
           "airport": "KFLL",
-          "rate": 8,
+          "rate": 6,
           "runway": "28L"
         },
         {
           "airport": "KFLL",
-          "rate": 8,
+          "rate": 6,
           "runway": "28R"
         }
       ],
@@ -4123,40 +4123,40 @@
       ],
       "arrivals": {
         "BHHIA3": {
-          "KFLL": 5,
+          "KFLL": 4,
           "KFXE": 2,
           "KOPF": 2
         },
         "CUUDA3": {
-          "KFLL": 10,
+          "KFLL": 6,
           "KOPF": 2
         },
         "OLAHS3": {
-          "KFLL": 5,
+          "KFLL": 4,
           "KFXE": 2,
           "KOPF": 2
         },
         "TEEKY3": {
-          "KFLL": 10,
+          "KFLL": 6,
           "KFXE": 2
         },
         "CSTAL2": {
-          "KMIA": 15,
+          "KMIA": 5,
           "KTMB": 2
         },
         "BNFSH2": {
           "KMIA": 10
         },
         "FROGZ4": {
-          "KMIA": 15,
+          "KMIA": 8,
           "KTMB": 2
         },
         "SNDBR3": {
-          "KMIA": 10,
+          "KMIA": 5,
           "KTMB": 2
         },
         "VIICE2": {
-          "KMIA": 10
+          "KMIA": 6
         }
       },
       "solo_controller": "MIA_V_APP",
@@ -4190,39 +4190,39 @@
       "departure_runways": [
         {
           "airport": "KMIA",
-          "rate": 25,
+          "rate": 12,
           "runway": "8R",
           "category": "North"
         },
         {
           "airport": "KMIA",
-          "rate": 15,
+          "rate": 6,
           "runway": "12",
           "category": "South"
         },
         {
           "airport": "KFLL",
-          "rate": 8,
+          "rate": 5,
           "runway": "10L"
         },
         {
           "airport": "KFLL",
-          "rate": 7,
+          "rate": 5,
           "runway": "10R"
         },
         {
           "airport": "KFXE",
-          "rate": 5,
+          "rate": 4,
           "runway": "9"
         },
         {
           "airport": "KTMB",
-          "rate": 7,
+          "rate": 6,
           "runway": "9L"
         },
         {
           "airport": "KOPF",
-          "rate": 7,
+          "rate": 6,
           "runway": "9L"
         }
       ],
@@ -4276,40 +4276,40 @@
       ],
       "arrivals": {
         "BHHIA3": {
-          "KFLL": 5,
+          "KFLL": 4,
           "KFXE": 2,
           "KOPF": 2
         },
         "CUUDA3": {
-          "KFLL": 10,
+          "KFLL": 6,
           "KOPF": 2
         },
         "OLAHS3": {
-          "KFLL": 5,
+          "KFLL": 4,
           "KFXE": 2,
           "KOPF": 2
         },
         "TEEKY3": {
-          "KFLL": 10,
+          "KFLL": 6,
           "KFXE": 2
         },
         "CSTAL2": {
-          "KMIA": 15,
+          "KMIA": 5,
           "KTMB": 2
         },
         "BNFSH2": {
           "KMIA": 10
         },
         "FROGZ4": {
-          "KMIA": 15,
+          "KMIA": 8,
           "KTMB": 2
         },
         "SNDBR3": {
-          "KMIA": 10,
+          "KMIA": 5,
           "KTMB": 2
         },
         "VIICE2": {
-          "KMIA": 10
+          "KMIA": 6
         }
       },
       "solo_controller": "MIA_V_APP",
@@ -4347,39 +4347,39 @@
       "departure_runways": [
         {
           "airport": "KMIA",
-          "rate": 25,
+          "rate": 12,
           "runway": "26L",
           "category": "North"
         },
         {
           "airport": "KMIA",
-          "rate": 15,
+          "rate": 6,
           "runway": "27",
           "category": "South"
         },
         {
           "airport": "KFLL",
-          "rate": 7,
+          "rate": 5,
           "runway": "28R"
         },
         {
           "airport": "KFLL",
-          "rate": 8,
+          "rate": 5,
           "runway": "28L"
         },
         {
           "airport": "KFXE",
-          "rate": 5,
+          "rate": 4,
           "runway": "27"
         },
         {
           "airport": "KTMB",
-          "rate": 7,
+          "rate": 6,
           "runway": "27R"
         },
         {
           "airport": "KOPF",
-          "rate": 7,
+          "rate": 6,
           "runway": "27R"
         }
       ],
