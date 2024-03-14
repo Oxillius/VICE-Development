@@ -1,0 +1,2802 @@
+[
+    {
+        "group": 0,
+        "label": "",
+        "name": "BLANK"
+    },
+    {
+        "group": 0,
+        "label": "MIA ASDEX",
+        "name": "ASDEX MIA"
+    },
+    {
+        "group": 0,
+        "label": "MIA E",
+        "name": "MIA-001S EAST OPERATIONS ARRIVAL"
+    },
+    {
+        "group": 0,
+        "label": "MIA W",
+        "name": "MIA-002S WEST OPERATIONS ARRIVAL"
+    },
+    {
+        "group": 0,
+        "label": "DEP E",
+        "name": "MIA-003S MIA DEPARTURE EAST"
+    },
+    {
+        "group": 1,
+        "label": "EM ILS",
+        "name": "MIA-004S EMERGENCY-ILS MONITOR"
+    },
+    {
+        "group": 0,
+        "label": "ILS MON",
+        "name": "MIA-005S ILS MON"
+    },
+    {
+        "group": 1,
+        "label": "GPS",
+        "name": "MIA-007S RNAV/GPS APPROACHES"
+    },
+    {
+        "group": 1,
+        "label": "NOISE",
+        "name": "MIA-008S NOISE"
+    },
+    {
+        "group": 1,
+        "label": "MVA 5NM",
+        "name": "MIA-009S MULTI MVA"
+    },
+    {
+        "group": 1,
+        "label": "SHORE",
+        "name": "MIA-010S SHORELINE / PRIMARY ARPTS"
+    },
+    {
+        "group": 0,
+        "label": "HOSPTLS",
+        "name": "MIA-011S HOSPITALS"
+    },
+    {
+        "group": 0,
+        "label": "DE-W",
+        "name": "MIA-012S D EAST WEST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "S EAST",
+        "name": "MIA-013S S EAST AIRSPACE WO/WORPP"
+    },
+    {
+        "group": 0,
+        "label": "DW-E",
+        "name": "MIA-014S D WEST EAST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "SWEST",
+        "name": "MIA-015S S WEST AIRSPACE WO/WORPP"
+    },
+    {
+        "group": 0,
+        "label": "AEAST",
+        "name": "MIA-016S A EAST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "AWEST",
+        "name": "MIA-017S A WEST AIRSPACE"
+    },
+    {
+        "group": 1,
+        "label": "ZMA OVR",
+        "name": "MIA-018S ZMA OVR"
+    },
+    {
+        "group": 0,
+        "label": "DE-E",
+        "name": "MIA-019S D EAST EAST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "DW-W",
+        "name": "MIA-020S D WEST WEST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "H EAST",
+        "name": "MIA-021S H EAST"
+    },
+    {
+        "group": 0,
+        "label": "VEAST",
+        "name": "MIA-022S V EAST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "VWEST",
+        "name": "MIA-023S V WEST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "WEAST",
+        "name": "MIA-024S W EAST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "WORPP E",
+        "name": "MIA-025S WORPP EAST"
+    },
+    {
+        "group": 0,
+        "label": "NEAST",
+        "name": "MIA-026S N EAST AIRSPACE WO/WORPP"
+    },
+    {
+        "group": 0,
+        "label": "WORPP W",
+        "name": "MIA-027S WORPP WEST"
+    },
+    {
+        "group": 0,
+        "label": "NWEST",
+        "name": "MIA-028S N WEST AIRSPACE WO/WORPP"
+    },
+    {
+        "group": 0,
+        "label": "QE-E",
+        "name": "MIA-029S Q EAST EAST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "ZE-W",
+        "name": "MIA-030S Z EAST WEST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "QW-W",
+        "name": "MIA-031S Q WEST WEST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "ZE-E",
+        "name": "MIA-032S Z FLL EAST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "ZW-W",
+        "name": "MIA-033S Z FLL WEST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "QW-E",
+        "name": "MIA-034S Q WEST EAST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "WEWEST",
+        "name": "MIA-035S W WEST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "DEP W",
+        "name": "MIA-036S MIA DEPARTURE WEST"
+    },
+    {
+        "group": 0,
+        "label": "QE-W",
+        "name": "MIA-037S Q EAST WEST AIRSPACE"
+    },
+    {
+        "group": 1,
+        "label": "MVA",
+        "name": "MIA-048S MVA"
+    },
+    {
+        "group": 1,
+        "label": "EMERGCY",
+        "name": "MIA-049S EMERGENCY MAP"
+    },
+    {
+        "group": 1,
+        "label": "HSTLTRV",
+        "name": "MIA-093S HST ALTRV"
+    },
+    {
+        "group": 1,
+        "label": "PBI RSW",
+        "name": "MIA-100S PBI/RSW CONTINGENCY"
+    },
+    {
+        "group": 1,
+        "label": "30 CLSD",
+        "name": "MIA-130S 30 CLSD"
+    },
+    {
+        "group": 1,
+        "label": "12 CLSD",
+        "name": "MIA-131S 12 CLSD"
+    },
+    {
+        "group": 1,
+        "label": "27 CLSD",
+        "name": "MIA-132S 27 CLSD"
+    },
+    {
+        "group": 1,
+        "label": "26RCLSD",
+        "name": "MIA-135S 26R CLSD"
+    },
+    {
+        "group": 1,
+        "label": "26LCLSD",
+        "name": "MIA-136S 26L CLSD"
+    },
+    {
+        "group": 1,
+        "label": "8L CLSD",
+        "name": "MIA-137S 8L CLSD"
+    },
+    {
+        "group": 1,
+        "label": "8R CLSD",
+        "name": "MIA-138S 8R CLSD"
+    },
+    {
+        "group": 1,
+        "label": "9 CLSD",
+        "name": "MIA-139S 9 CLSD"
+    },
+    {
+        "group": 0,
+        "label": "H WEST",
+        "name": "MIA-141S H WEST"
+    },
+    {
+        "group": 0,
+        "label": "ZW-E",
+        "name": "MIA-148S Z WEST EAST AIRSPACE"
+    },
+    {
+        "group": 1,
+        "label": "ADSB40M",
+        "name": "MIA-190S ADSB 40NM SV7"
+    },
+    {
+        "group": 1,
+        "label": "ADSB60M",
+        "name": "MIA-191S ADSB 60NM SV7"
+    },
+    {
+        "group": 1,
+        "label": "ADSB40M",
+        "name": "MIA-192S ADSB 40NM SV58"
+    },
+    {
+        "group": 1,
+        "label": "ADSB60M",
+        "name": "MIA-193S ADSB 60NM SV58"
+    },
+    {
+        "group": 1,
+        "label": "FC F28L",
+        "name": "MIA-200S FLCHK - FLL ILS OR LOC 28L"
+    },
+    {
+        "group": 1,
+        "label": "FC F10R",
+        "name": "MIA-201S FLCHK - FLL ILS OR LOC 10R"
+    },
+    {
+        "group": 1,
+        "label": "FC F10L",
+        "name": "MIA-202S FLCHK - FLL ILS OR LOC 10L"
+    },
+    {
+        "group": 1,
+        "label": "FC F28R",
+        "name": "MIA-203S FLCHK - FLL ILS OR LOC 28R"
+    },
+    {
+        "group": 1,
+        "label": "FC X9",
+        "name": "MIA-204S FLCHK - FXE ILS OR LOC 9"
+    },
+    {
+        "group": 1,
+        "label": "FC M9",
+        "name": "MIA-205S FLCHK - MIA ILS OR LOC 9"
+    },
+    {
+        "group": 1,
+        "label": "FC M30",
+        "name": "MIA-206S FLCHK - MIA ILS OR LOC 30"
+    },
+    {
+        "group": 1,
+        "label": "FC M12",
+        "name": "MIA-207S FLCHK - MIA ILS OR LOC 12"
+    },
+    {
+        "group": 1,
+        "label": "FC M8R",
+        "name": "MIA-208S FLCHK - MIA ILS OR LOC 8R"
+    },
+    {
+        "group": 1,
+        "label": "FC M27",
+        "name": "MIA-209S FLCHK - MIA ILS OR LOC 27"
+    },
+    {
+        "group": 1,
+        "label": "FC M26L",
+        "name": "MIA-210S FLCHK - MIA ILS OR LOC 26L"
+    },
+    {
+        "group": 1,
+        "label": "FC O12",
+        "name": "MIA-211S FLCHK - OPF ILS OR LOC 12"
+    },
+    {
+        "group": 1,
+        "label": "FC O9L",
+        "name": "MIA-212S FLCHK - OPF ILS OR LOC 9L"
+    },
+    {
+        "group": 1,
+        "label": "FC O27R",
+        "name": "MIA-213S FLCHK - OPF ILS OR LOC 27R"
+    },
+    {
+        "group": 1,
+        "label": "FC T9R",
+        "name": "MIA-214S FLCHK - TMB ILS OR LOC 9R"
+    },
+    {
+        "group": 1,
+        "label": "FC P15",
+        "name": "MIA-215S FLCHK - PMP LOC 15"
+    },
+    {
+        "group": 1,
+        "label": "GGPS",
+        "name": "MIA-224S G RNAV/GPS"
+    },
+    {
+        "group": 1,
+        "label": "CLASS C",
+        "name": "MIA-225S FLL CLASS C"
+    },
+    {
+        "group": 1,
+        "label": "HWO OPF",
+        "name": "MIA-226S HWO/OPF CLASS D"
+    },
+    {
+        "group": 1,
+        "label": "L DEP W",
+        "name": "MIA-300S FLL DEP WEST"
+    },
+    {
+        "group": 1,
+        "label": "L DEP E",
+        "name": "MIA-301S FLL DEP EAST"
+    },
+    {
+        "group": 1,
+        "label": "FLL A E",
+        "name": "MIA-302S FLL ARR EAST"
+    },
+    {
+        "group": 1,
+        "label": "D DEP W",
+        "name": "MIA-303S MIA NORTH DEP WEST"
+    },
+    {
+        "group": 1,
+        "label": "D DEP E",
+        "name": "MIA-304S MIA NORTH DEP EAST"
+    },
+    {
+        "group": 1,
+        "label": "W DEP W",
+        "name": "MIA-305S MIA SOUTH DEP WEST"
+    },
+    {
+        "group": 1,
+        "label": "W DEP E",
+        "name": "MIA-306S MIA SOUTH DEP EAST"
+    },
+    {
+        "group": 1,
+        "label": "FROGZ E",
+        "name": "MIA-307S FROGZ EAST"
+    },
+    {
+        "group": 1,
+        "label": "CSTAL E",
+        "name": "MIA-308S CSTAL EAST"
+    },
+    {
+        "group": 1,
+        "label": "VIICE E",
+        "name": "MIA-309S VIICE EAST"
+    },
+    {
+        "group": 1,
+        "label": "SDBAR E",
+        "name": "MIA-310S SNDBR EAST"
+    },
+    {
+        "group": 1,
+        "label": "SDBAR W",
+        "name": "MIA-312S SNDBR WEST"
+    },
+    {
+        "group": 1,
+        "label": "OLAHS E",
+        "name": "MIA-313S OLAHS EAST"
+    },
+    {
+        "group": 1,
+        "label": "TRAIN",
+        "name": "MIA-314S MIA TRAINING MAP I"
+    },
+    {
+        "group": 1,
+        "label": "STADIUM",
+        "name": "MIA-315S STADIUMS"
+    },
+    {
+        "group": 1,
+        "label": "FLL A W",
+        "name": "MIA-319S FLL ARR WEST"
+    },
+    {
+        "group": 1,
+        "label": "FROGZ W",
+        "name": "MIA-320S FROGZ WEST"
+    },
+    {
+        "group": 1,
+        "label": "CSTAL W",
+        "name": "MIA-321S CSTAL WEST"
+    },
+    {
+        "group": 1,
+        "label": "VIICE W",
+        "name": "MIA-322S VIICE WEST"
+    },
+    {
+        "group": 1,
+        "label": "OLAHS W",
+        "name": "MIA-323S OLAHS WEST"
+    },
+    {
+        "group": 1,
+        "label": "BAHIA E",
+        "name": "MIA-324S BHHIA EAST"
+    },
+    {
+        "group": 1,
+        "label": "BAHIA W",
+        "name": "MIA-325S BHHIA WEST"
+    },
+    {
+        "group": 1,
+        "label": "KYAKS",
+        "name": "MIA-326S KYAKS"
+    },
+    {
+        "group": 1,
+        "label": "TARPN",
+        "name": "MIA-327S TARPN"
+    },
+    {
+        "group": 1,
+        "label": "T RTES",
+        "name": "MIA-328S T RTES"
+    },
+    {
+        "group": 1,
+        "label": "NNOCE",
+        "name": "MIA-329S NNOCE"
+    },
+    {
+        "group": 1,
+        "label": "MIA R W",
+        "name": "MIA-330S RNAV WEST"
+    },
+    {
+        "group": 1,
+        "label": "MIA R E",
+        "name": "MIA-332S RNAV EAST"
+    },
+    {
+        "group": 1,
+        "label": "DTA LTR",
+        "name": "MIA-333S DTA ATA LETTER MAP"
+    },
+    {
+        "group": 1,
+        "label": "D BCH E",
+        "name": "MIA-340S D BEECH EAST"
+    },
+    {
+        "group": 1,
+        "label": "D BCH W",
+        "name": "MIA-341S D BEECH WEST"
+    },
+    {
+        "group": 1,
+        "label": "CLASS D",
+        "name": "MIA-850S CLASS D AIRSPACE"
+    },
+    {
+        "group": 1,
+        "label": "FLL GEO",
+        "name": "FLL-006S FLL GEO MAP"
+    },
+    {
+        "group": 1,
+        "label": "FLL R E",
+        "name": "FLL-009S FLL RNAV EAST"
+    },
+    {
+        "group": 1,
+        "label": "FLL R W",
+        "name": "FLL-010S FLL RNAV WEST"
+    },
+    {
+        "group": 1,
+        "label": "FLL T E",
+        "name": "FLL-011S EAST OPERATION"
+    },
+    {
+        "group": 1,
+        "label": "FLL T W",
+        "name": "FLL-012S WEST OPEARTION"
+    },
+    {
+        "group": 0,
+        "label": "FLL MID",
+        "name": "FLL-013S BRITE 2/FLL"
+    },
+    {
+        "group": 1,
+        "label": "FLL RNP",
+        "name": "FLL-015S RNAV (RNP) APPCHS"
+    },
+    {
+        "group": 0,
+        "label": "GEAST",
+        "name": "FLL-016S G EAST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "REAST",
+        "name": "FLL-017S R EAST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "FEAST",
+        "name": "FLL-018S F EAST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "LE-E",
+        "name": "FLL-019S L EAST EAST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "LE-W",
+        "name": "FLL-020S L EAST WEST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "GWEST",
+        "name": "FLL-021S G WEST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "FWEST",
+        "name": "FLL-022S F WEST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "JEAST",
+        "name": "FLL-023S J EAST FINAL"
+    },
+    {
+        "group": 0,
+        "label": "LW-W",
+        "name": "FLL-024S L WEST WEST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "RWEST",
+        "name": "FLL-025S R WEST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "LW-E",
+        "name": "FLL-026S L WEST EAST AIRSPACE"
+    },
+    {
+        "group": 0,
+        "label": "JWEST",
+        "name": "FLL-027S J WEST FINAL"
+    },
+    {
+        "group": 0,
+        "label": "NORTH",
+        "name": "TPA-101S NORTH HI"
+    },
+    {
+        "group": 0,
+        "label": "SOUTH",
+        "name": "TPA-102S SOUTH HI"
+    },
+    {
+        "group": 0,
+        "label": "SAT",
+        "name": "TPA-103S SAT"
+    },
+    {
+        "group": 0,
+        "label": "FINAL 1",
+        "name": "TPA-104S FINAL 1"
+    },
+    {
+        "group": 1,
+        "label": "EMERGCY",
+        "name": "TPA-105S EMERGENCY (WITH MVA)"
+    },
+    {
+        "group": 1,
+        "label": "CLASBC1",
+        "name": "TPA-106S CLASSBC1"
+    },
+    {
+        "group": 1,
+        "label": "OUTER",
+        "name": "TPA-107S OUTER"
+    },
+    {
+        "group": 1,
+        "label": "N BNDRY",
+        "name": "TPA-108S N BDRY"
+    },
+    {
+        "group": 1,
+        "label": "S BNDRY",
+        "name": "TPA-109S S BDRY"
+    },
+    {
+        "group": 1,
+        "label": "SAT BND",
+        "name": "TPA-110S SAT BDRY"
+    },
+    {
+        "group": 0,
+        "label": "FINAL 2",
+        "name": "TPA-111S FINAL 2"
+    },
+    {
+        "group": 1,
+        "label": "INTER X",
+        "name": "TPA-112S INTER"
+    },
+    {
+        "group": 1,
+        "label": "ILS",
+        "name": "TPA-113S ILS/NDB"
+    },
+    {
+        "group": 1,
+        "label": "MAEKODP",
+        "name": "TPA-114S MAEKO RNAV DP"
+    },
+    {
+        "group": 1,
+        "label": "VOR TAC",
+        "name": "TPA-116S VOR/TAC"
+    },
+    {
+        "group": 1,
+        "label": "R DPS",
+        "name": "TPA-117S RNAV DPS"
+    },
+    {
+        "group": 1,
+        "label": "AIRWAYS",
+        "name": "TPA-118S AIRWAYS"
+    },
+    {
+        "group": 0,
+        "label": "CTR BND",
+        "name": "TPA-119S CTR BND"
+    },
+    {
+        "group": 1,
+        "label": "IR VR",
+        "name": "TPA-120S IR/VR"
+    },
+    {
+        "group": 1,
+        "label": "TPA MVA",
+        "name": "TPA-122S MVA"
+    },
+    {
+        "group": 1,
+        "label": "EM HOSP",
+        "name": "TPA-123S EM HOSP"
+    },
+    {
+        "group": 1,
+        "label": "EM ROAD",
+        "name": "TPA-124S ROADS"
+    },
+    {
+        "group": 1,
+        "label": "EMCOAST",
+        "name": "TPA-125S EMCOAST"
+    },
+    {
+        "group": 1,
+        "label": "TWR MAP",
+        "name": "TPA-126S TWR MAP"
+    },
+    {
+        "group": 1,
+        "label": "MID MAP",
+        "name": "TPA-127S MID MAP"
+    },
+    {
+        "group": 1,
+        "label": "COUNTYS",
+        "name": "TPA-128S COUNTY"
+    },
+    {
+        "group": 1,
+        "label": "CLASS D",
+        "name": "TPA-130S SPG/MCF"
+    },
+    {
+        "group": 1,
+        "label": "QFN 40",
+        "name": "TPA-131S FTGREEN"
+    },
+    {
+        "group": 1,
+        "label": "RJS TFR",
+        "name": "TPA-134S RJS TFR"
+    },
+    {
+        "group": 1,
+        "label": "TPASTAR",
+        "name": "TPA-135S RNAV STARS"
+    },
+    {
+        "group": 1,
+        "label": "RAYZZ",
+        "name": "TPA-136S RAYZZ RNAV STAR"
+    },
+    {
+        "group": 1,
+        "label": "CROWD D",
+        "name": "TPA-138S CROWD RNAV DP"
+    },
+    {
+        "group": 1,
+        "label": "GANDY D",
+        "name": "TPA-139S GANDY RNAV DP"
+    },
+    {
+        "group": 1,
+        "label": "DORMR D",
+        "name": "TPA-140S DORMR RNAV DP"
+    },
+    {
+        "group": 1,
+        "label": "R STARS",
+        "name": "TPA-141S RNAV STARS/NAMES"
+    },
+    {
+        "group": 1,
+        "label": "ILS FIX",
+        "name": "TPA-142S PRIMARY FACS"
+    },
+    {
+        "group": 1,
+        "label": "INTSEC",
+        "name": "TPA-143S AIRWAY LABELS"
+    },
+    {
+        "group": 1,
+        "label": "DADES A",
+        "name": "TPA-144S DADES RNAV STAR"
+    },
+    {
+        "group": 1,
+        "label": "BLFRG A",
+        "name": "TPA-145S BLFRG RNAV STAR"
+    },
+    {
+        "group": 1,
+        "label": "MAATY A",
+        "name": "TPA-146S MAATY RNAV STAR"
+    },
+    {
+        "group": 1,
+        "label": "ENDED D",
+        "name": "TPA-147S ENDED RNAV DP"
+    },
+    {
+        "group": 1,
+        "label": "BAYPO D",
+        "name": "TPA-148S BAYPO RNAV DP"
+    },
+    {
+        "group": 1,
+        "label": "RNAV DP",
+        "name": "TPA-150S RNAV DP NAMES"
+    },
+    {
+        "group": 1,
+        "label": "BKV GPS",
+        "name": "TPA-151S BKV GPS"
+    },
+    {
+        "group": 1,
+        "label": "BOW GPS",
+        "name": "TPA-152S BOW GPS"
+    },
+    {
+        "group": 1,
+        "label": "GIF GPS",
+        "name": "TPA-153S GIF GPS"
+    },
+    {
+        "group": 1,
+        "label": "LAL GPS",
+        "name": "TPA-154S LAL GPS"
+    },
+    {
+        "group": 1,
+        "label": "MCF GPS",
+        "name": "TPA-155S MCF GPS"
+    },
+    {
+        "group": 1,
+        "label": "PCM GPS",
+        "name": "TPA-156S PCM GPS"
+    },
+    {
+        "group": 1,
+        "label": "PIE GPS",
+        "name": "TPA-157S PIE GPS"
+    },
+    {
+        "group": 1,
+        "label": "SPG GPS",
+        "name": "TPA-158S SPG GPS"
+    },
+    {
+        "group": 1,
+        "label": "SRQ GPS",
+        "name": "TPA-159S SRQ GPS"
+    },
+    {
+        "group": 1,
+        "label": "TPA GPS",
+        "name": "TPA-160S TPA GPS"
+    },
+    {
+        "group": 1,
+        "label": "TPF GPS",
+        "name": "TPA-161S TPF GPS"
+    },
+    {
+        "group": 1,
+        "label": "VDF GPS",
+        "name": "TPA-162S VDF GPS"
+    },
+    {
+        "group": 1,
+        "label": "ZPH GPS",
+        "name": "TPA-163S ZPH GPS"
+    },
+    {
+        "group": 1,
+        "label": "AIRFSTA",
+        "name": "TPA-165S AIRFSTA"
+    },
+    {
+        "group": 1,
+        "label": "AIRFSTB",
+        "name": "TPA-166S AIRFSTB"
+    },
+    {
+        "group": 1,
+        "label": "AIRFSTC",
+        "name": "TPA-167S AIRFSTC"
+    },
+    {
+        "group": 1,
+        "label": "SHELF N",
+        "name": "TPA-168S FINAL SHELF A-36"
+    },
+    {
+        "group": 1,
+        "label": "VNC GPS",
+        "name": "TPA-169S VNC GPS"
+    },
+    {
+        "group": 1,
+        "label": "RJS OPS",
+        "name": "TPA-170S RJS BANNER OPS"
+    },
+    {
+        "group": 1,
+        "label": "TPA N",
+        "name": "TPA-171S TWR-N"
+    },
+    {
+        "group": 1,
+        "label": "TPA S",
+        "name": "TPA-172S TWR-S"
+    },
+    {
+        "group": 1,
+        "label": "ZPH R05",
+        "name": "TPA-173S ZPH GPS 5"
+    },
+    {
+        "group": 1,
+        "label": "ZPH R23",
+        "name": "TPA-174S ZPH GPS 23"
+    },
+    {
+        "group": 1,
+        "label": "BKV R03",
+        "name": "TPA-175S BKV GPS 3"
+    },
+    {
+        "group": 1,
+        "label": "BKV R09",
+        "name": "TPA-176S BKV GPS 9"
+    },
+    {
+        "group": 1,
+        "label": "BKV R21",
+        "name": "TPA-177S BKV GPS 21"
+    },
+    {
+        "group": 1,
+        "label": "BKV R27",
+        "name": "TPA-178S BKV GPS 27"
+    },
+    {
+        "group": 1,
+        "label": "BOW R05",
+        "name": "TPA-179S BOW GPS 5"
+    },
+    {
+        "group": 1,
+        "label": "BOW R09",
+        "name": "TPA-180S BOW GPS 9"
+    },
+    {
+        "group": 1,
+        "label": "BOW R23",
+        "name": "TPA-181S BOW GPS 23"
+    },
+    {
+        "group": 1,
+        "label": "BOW R27",
+        "name": "TPA-182S BOW GPS 27"
+    },
+    {
+        "group": 1,
+        "label": "GIF R05",
+        "name": "TPA-183S GIF GPS 4"
+    },
+    {
+        "group": 1,
+        "label": "GIF R11",
+        "name": "TPA-184S GIF GPS 11"
+    },
+    {
+        "group": 1,
+        "label": "LAL R10",
+        "name": "TPA-185S LAL GPS 9"
+    },
+    {
+        "group": 1,
+        "label": "LAL R28",
+        "name": "TPA-186S LAL GPS 27"
+    },
+    {
+        "group": 1,
+        "label": "MCF R05",
+        "name": "TPA-187S MCF GPS 4"
+    },
+    {
+        "group": 1,
+        "label": "MCF R23",
+        "name": "TPA-188S MCF GPS 22"
+    },
+    {
+        "group": 1,
+        "label": "PIE R18",
+        "name": "TPA-190S PIE GPS 18L"
+    },
+    {
+        "group": 1,
+        "label": "PIE R36",
+        "name": "TPA-191S PIE GPS 36R"
+    },
+    {
+        "group": 1,
+        "label": "SPG R07",
+        "name": "TPA-192S SPG GPS 7"
+    },
+    {
+        "group": 1,
+        "label": "SPG R18",
+        "name": "TPA-193S SPG GPS 18"
+    },
+    {
+        "group": 1,
+        "label": "SPG R36",
+        "name": "TPA-194S SPG GPS 36"
+    },
+    {
+        "group": 1,
+        "label": "SRQ R04",
+        "name": "TPA-195S SRQ GPS 4"
+    },
+    {
+        "group": 1,
+        "label": "SRQ R14",
+        "name": "TPA-196S SRQ GPS 14"
+    },
+    {
+        "group": 1,
+        "label": "SRQ R22",
+        "name": "TPA-197S SRQ GPS 22"
+    },
+    {
+        "group": 1,
+        "label": "SRQ 32",
+        "name": "TPA-198S SRQ GPS 32"
+    },
+    {
+        "group": 1,
+        "label": "TPA R",
+        "name": "TPA-199S TPA GPS 19R/1R"
+    },
+    {
+        "group": 1,
+        "label": "TPA L",
+        "name": "TPA-200S TPA GPS 19L/1L"
+    },
+    {
+        "group": 1,
+        "label": "TPA R10",
+        "name": "TPA-201S TPA GPS 10"
+    },
+    {
+        "group": 1,
+        "label": "TPA R28",
+        "name": "TPA-202S TPA GPS 28"
+    },
+    {
+        "group": 1,
+        "label": "TPF R22",
+        "name": "TPA-203S TPF GPS 22"
+    },
+    {
+        "group": 1,
+        "label": "TPF R36",
+        "name": "TPA-204S TPF GPS 36"
+    },
+    {
+        "group": 1,
+        "label": "VDF R18",
+        "name": "TPA-205S VDF GPS 18"
+    },
+    {
+        "group": 1,
+        "label": "VDF R23",
+        "name": "TPA-206S VDF GPS 23"
+    },
+    {
+        "group": 1,
+        "label": "VNC R13",
+        "name": "TPA-207S VNC GPS 13"
+    },
+    {
+        "group": 1,
+        "label": "VNC R31",
+        "name": "TPA-208S VNC GPS 31"
+    },
+    {
+        "group": 1,
+        "label": "ZPH R19",
+        "name": "TPA-209S ZPH GPS 19"
+    },
+    {
+        "group": 1,
+        "label": "ZPH R01",
+        "name": "TPA-210S ZPH GPS 1"
+    },
+    {
+        "group": 1,
+        "label": "LAL R05",
+        "name": "TPA-211S LAL GPS 5"
+    },
+    {
+        "group": 1,
+        "label": "LAL R23",
+        "name": "TPA-212S LAL GPS 23"
+    },
+    {
+        "group": 1,
+        "label": "SRQ 40",
+        "name": "TPA-213S 40NM RING"
+    },
+    {
+        "group": 1,
+        "label": "SRQ 60",
+        "name": "TPA-214S 60NM RING"
+    },
+    {
+        "group": 1,
+        "label": "TPA 40",
+        "name": "TPA-215S 40NM RING"
+    },
+    {
+        "group": 1,
+        "label": "TPA 60",
+        "name": "TPA-216S 60NM RING"
+    },
+    {
+        "group": 1,
+        "label": "DP FX",
+        "name": "TPA-217S DP FIXES"
+    },
+    {
+        "group": 1,
+        "label": "LP MOA",
+        "name": "TPA-218S LAKE PLACID MOA"
+    },
+    {
+        "group": 1,
+        "label": "CLASBC2",
+        "name": "TPA-219S CLASSBC2"
+    },
+    {
+        "group": 1,
+        "label": "SRKUS D",
+        "name": "TPA-220S SRKUS RNAV DP"
+    },
+    {
+        "group": 1,
+        "label": "BANGZ",
+        "name": "TPA-221S BANGZ RNAV STAR"
+    },
+    {
+        "group": 1,
+        "label": "LUBBR A",
+        "name": "TPA-222S LUBBR RNAV STAR"
+    },
+    {
+        "group": 1,
+        "label": "X07 GPS",
+        "name": "TPA-230S X07 GPS"
+    },
+    {
+        "group": 1,
+        "label": "VDF R05",
+        "name": "TPA-231S VDF GPS 5"
+    },
+    {
+        "group": 1,
+        "label": "VNC R23",
+        "name": "TPA-232S VNC GPS 23"
+    },
+    {
+        "group": 1,
+        "label": "VNC R05",
+        "name": "TPA-233S VNC GPS 5"
+    },
+    {
+        "group": 1,
+        "label": "STAR FX",
+        "name": "TPA-235S STAR FIXES"
+    },
+    {
+        "group": 1,
+        "label": "TRP TFR",
+        "name": "TPA-236S TROPICANA TFR"
+    },
+    {
+        "group": 1,
+        "label": "SVFR",
+        "name": "TPA-237S HIGHWAYS"
+    },
+    {
+        "group": 1,
+        "label": "ADSB40",
+        "name": "TPA-260S ADSB 40NM"
+    },
+    {
+        "group": 1,
+        "label": "ADSB60",
+        "name": "TPA-261S ADSB 60NM"
+    },
+    {
+        "group": 1,
+        "label": "MVAFSN5",
+        "name": "TPA-262S 5NM MVA"
+    },
+    {
+        "group": 1,
+        "label": "SNF",
+        "name": "TPA-263S SUN N FUN"
+    },
+    {
+        "group": 1,
+        "label": "PAJ ZPH",
+        "name": "TPA-264S PAJA ZPH"
+    },
+    {
+        "group": 1,
+        "label": "PAJ 9FD",
+        "name": "TPA-265S PAJA 9FD2"
+    },
+    {
+        "group": 1,
+        "label": "SNFSHOW",
+        "name": "TPA-267S PAJA ZPH \u0026 9FD2"
+    },
+    {
+        "group": 1,
+        "label": "E SHELF",
+        "name": "TPA-268S EAST SHELF"
+    },
+    {
+        "group": 1,
+        "label": "PIE RVA",
+        "name": "TPA-270S PIE RVFP 18"
+    },
+    {
+        "group": 1,
+        "label": "TPA UAS",
+        "name": "TPA-272S UAS"
+    },
+    {
+        "group": 1,
+        "label": "STADIUM",
+        "name": "TPA-273S STADIUMS"
+    },
+    {
+        "group": 1,
+        "label": "PIEVRB",
+        "name": "TPA-274S PIE VOR B"
+    },
+    {
+        "group": 1,
+        "label": "ASR",
+        "name": "RSW-101S ASR APPROACH"
+    },
+    {
+        "group": 1,
+        "label": "CTR",
+        "name": "RSW-102S CENTER SECTORS W FREQS"
+    },
+    {
+        "group": 1,
+        "label": "MVA",
+        "name": "RSW-103S FUS3 MVA"
+    },
+    {
+        "group": 1,
+        "label": "IR",
+        "name": "RSW-104S IR ROUTES"
+    },
+    {
+        "group": 1,
+        "label": "TERRAIN",
+        "name": "RSW-105S TERRAIN MAP"
+    },
+    {
+        "group": 0,
+        "label": "RWY 6",
+        "name": "RSW-106S RWY 6"
+    },
+    {
+        "group": 0,
+        "label": "RWY 24",
+        "name": "RSW-107S RWY 24"
+    },
+    {
+        "group": 1,
+        "label": "GPS A",
+        "name": "RSW-108S GPS MAP A"
+    },
+    {
+        "group": 1,
+        "label": "VICTOR",
+        "name": "RSW-109S VICTOR AIRWAYS"
+    },
+    {
+        "group": 1,
+        "label": "T RTE",
+        "name": "RSW-110S T ROUTES"
+    },
+    {
+        "group": 1,
+        "label": "GPS B",
+        "name": "RSW-111S GPS MAP B"
+    },
+    {
+        "group": 1,
+        "label": "ATA/DTA",
+        "name": "RSW-114S ATA/DTA"
+    },
+    {
+        "group": 1,
+        "label": "IMM",
+        "name": "RSW-115S IMM GPS"
+    },
+    {
+        "group": 1,
+        "label": "WPT 6",
+        "name": "RSW-116S WAPOINT OVERLAY RWY 6"
+    },
+    {
+        "group": 1,
+        "label": "WPT 24",
+        "name": "RSW-117S WAPOINT OVERLAY RWY 24"
+    },
+    {
+        "group": 1,
+        "label": "FU5 MVA",
+        "name": "RSW-118S FUS5 MVA"
+    },
+    {
+        "group": 1,
+        "label": "QFN MVA",
+        "name": "RSW-119S QFN MVA"
+    },
+    {
+        "group": 1,
+        "label": "RSW MVA",
+        "name": "RSW-120S RSW MVA"
+    },
+    {
+        "group": 1,
+        "label": "RSW VIS",
+        "name": "RSW-121S RNAV VIS FIX LABELS"
+    },
+    {
+        "group": 1,
+        "label": "CSHEL",
+        "name": "RSW-122S CSHEL FIX LABELS"
+    },
+    {
+        "group": 1,
+        "label": "RSW 6",
+        "name": "RSW-123S RSW RNAV 6"
+    },
+    {
+        "group": 1,
+        "label": "RSW GPS",
+        "name": "RSW-124S RSW RNAV APCH"
+    },
+    {
+        "group": 1,
+        "label": "SHFTY",
+        "name": "RSW-125S SHFTY FIX LABELS"
+    },
+    {
+        "group": 1,
+        "label": "TYNEE",
+        "name": "RSW-126S TYNEE FIX LABELS"
+    },
+    {
+        "group": 1,
+        "label": "FMY 13",
+        "name": "RSW-127S FMY RNAV 13"
+    },
+    {
+        "group": 1,
+        "label": "FMY 23",
+        "name": "RSW-128S FMY RNAV 23"
+    },
+    {
+        "group": 1,
+        "label": "FMY 31",
+        "name": "RSW-129S FMY RNAV 31"
+    },
+    {
+        "group": 1,
+        "label": "FMY 5",
+        "name": "RSW-130S FMY RNAV 5"
+    },
+    {
+        "group": 1,
+        "label": "FMY GPS",
+        "name": "RSW-131S FMY RNAV APCH"
+    },
+    {
+        "group": 1,
+        "label": "IMOCK",
+        "name": "RSW-132S IMOCK DTA"
+    },
+    {
+        "group": 1,
+        "label": "PIKKR",
+        "name": "RSW-133S PIKKR FIX LABELS"
+    },
+    {
+        "group": 1,
+        "label": "APF A",
+        "name": "RSW-134S APF RNAV A"
+    },
+    {
+        "group": 1,
+        "label": "APF B",
+        "name": "RSW-135S APF RNAV B"
+    },
+    {
+        "group": 1,
+        "label": "APF 5",
+        "name": "RSW-136S APF RNAV 5"
+    },
+    {
+        "group": 1,
+        "label": "APF 23",
+        "name": "RSW-137S APF RNAV 23"
+    },
+    {
+        "group": 1,
+        "label": "APF GPS",
+        "name": "RSW-138S APF RNAV APCH"
+    },
+    {
+        "group": 1,
+        "label": "ADSB",
+        "name": "RSW-139S ADSB RADIO STATIONS"
+    },
+    {
+        "group": 1,
+        "label": "ADSB40",
+        "name": "RSW-140S ADSB 40NM"
+    },
+    {
+        "group": 1,
+        "label": "ADSB60",
+        "name": "RSW-141S ADSB 60NM"
+    },
+    {
+        "group": 1,
+        "label": "PGD GPS",
+        "name": "RSW-142S PGD RNAV APCH"
+    },
+    {
+        "group": 1,
+        "label": "PGD 4",
+        "name": "RSW-143S PGD RNAV 4"
+    },
+    {
+        "group": 1,
+        "label": "PGD 22",
+        "name": "RSW-144S PGD RNAV 22"
+    },
+    {
+        "group": 1,
+        "label": "IMM 9",
+        "name": "RSW-147S IMM RNAV 9"
+    },
+    {
+        "group": 1,
+        "label": "IMM 18",
+        "name": "RSW-148S IMM RNAV 18"
+    },
+    {
+        "group": 1,
+        "label": "IMM 27",
+        "name": "RSW-149S IMM RNAV 27"
+    },
+    {
+        "group": 1,
+        "label": "IMM 36",
+        "name": "RSW-150S IMM RNAV 36"
+    },
+    {
+        "group": 1,
+        "label": "IMM GPS",
+        "name": "RSW-151S IMM RNAV APCH"
+    },
+    {
+        "group": 1,
+        "label": "IMM18",
+        "name": "RSW-152S IMM VOR 18"
+    },
+    {
+        "group": 1,
+        "label": "PGD VFR",
+        "name": "RSW-153S PGD VFR"
+    },
+    {
+        "group": 1,
+        "label": "RSW 24",
+        "name": "RSW-154S RSW RNAV 24"
+    },
+    {
+        "group": 1,
+        "label": "LBV 32",
+        "name": "RSW-156S LBV RNAV 32"
+    },
+    {
+        "group": 1,
+        "label": "LBV 14",
+        "name": "RSW-157S LBV RNAV 14"
+    },
+    {
+        "group": 1,
+        "label": "LBV GPS",
+        "name": "RSW-158S LBV RNAV APCH"
+    },
+    {
+        "group": 1,
+        "label": "RSW ILS",
+        "name": "RSW-159S THREE FIXES"
+    },
+    {
+        "group": 1,
+        "label": "VNC 31",
+        "name": "RSW-160S VNC RNAV 31"
+    },
+    {
+        "group": 1,
+        "label": "X06 A",
+        "name": "RSW-161S X06 RNAV A"
+    },
+    {
+        "group": 1,
+        "label": "PGD 15",
+        "name": "RSW-163S PGD RNAV 15"
+    },
+    {
+        "group": 1,
+        "label": "PGD 33",
+        "name": "RSW-164S PGD RNAV 33"
+    },
+    {
+        "group": 1,
+        "label": "A54 GPS",
+        "name": "RSW-165S FA54 RNAV APCH"
+    },
+    {
+        "group": 1,
+        "label": "FA54 5",
+        "name": "RSW-166S FA54 RNAV 5"
+    },
+    {
+        "group": 1,
+        "label": "FA54 23",
+        "name": "RSW-167S FA54 RNAV 23"
+    },
+    {
+        "group": 1,
+        "label": "MKY 17",
+        "name": "RSW-170S MKY RNAV 17"
+    },
+    {
+        "group": 1,
+        "label": "MKY 35",
+        "name": "RSW-171S MKY RNAV 35"
+    },
+    {
+        "group": 1,
+        "label": "MKY GPS",
+        "name": "RSW-172S MKY RNAV APCH"
+    },
+    {
+        "group": 1,
+        "label": "PGD D",
+        "name": "RSW-173S PGD CLASS D"
+    },
+    {
+        "group": 1,
+        "label": "APF D",
+        "name": "RSW-174S APF CLASS D"
+    },
+    {
+        "group": 1,
+        "label": "FMY D",
+        "name": "RSW-175S FMY CLASS D"
+    },
+    {
+        "group": 1,
+        "label": "MOA",
+        "name": "RSW-176S WARNING AREAS/MOAS"
+    },
+    {
+        "group": 1,
+        "label": "COUNTY",
+        "name": "RSW-177S COUNTIES"
+    },
+    {
+        "group": 1,
+        "label": "3NM ARC",
+        "name": "RSW-178S 3NM ARC"
+    },
+    {
+        "group": 1,
+        "label": "IR20",
+        "name": "RSW-179S IR20"
+    },
+    {
+        "group": 1,
+        "label": "IR34",
+        "name": "RSW-180S IR34"
+    },
+    {
+        "group": 1,
+        "label": "IR50",
+        "name": "RSW-181S IR50/51"
+    },
+    {
+        "group": 1,
+        "label": "IR55",
+        "name": "RSW-182S IR55"
+    },
+    {
+        "group": 1,
+        "label": "IR56",
+        "name": "RSW-183S IR56"
+    },
+    {
+        "group": 1,
+        "label": "LUBBR",
+        "name": "RSW-184S LUBBR ARRIVAL"
+    },
+    {
+        "group": 1,
+        "label": "RSW 24X",
+        "name": "RSW-185S RSW RWY 24"
+    },
+    {
+        "group": 1,
+        "label": "FMY 5X",
+        "name": "RSW-186S FMY RWY 5"
+    },
+    {
+        "group": 1,
+        "label": "FMY 23X",
+        "name": "RSW-187S FMY RWY 23"
+    },
+    {
+        "group": 1,
+        "label": "FMY 13X",
+        "name": "RSW-188S FMY RWY 13"
+    },
+    {
+        "group": 1,
+        "label": "FMY 31X",
+        "name": "RSW-189S FMY RWY 31"
+    },
+    {
+        "group": 1,
+        "label": "APF 5X",
+        "name": "RSW-190S APF RWY 5"
+    },
+    {
+        "group": 1,
+        "label": "APF 23X",
+        "name": "RSW-191S APF RWY 23"
+    },
+    {
+        "group": 1,
+        "label": "APF 32X",
+        "name": "RSW-192S APF RWY 32"
+    },
+    {
+        "group": 1,
+        "label": "APF 14X",
+        "name": "RSW-193S APF RWY 14"
+    },
+    {
+        "group": 1,
+        "label": "PGD 4X",
+        "name": "RSW-194S PGD RWY 4"
+    },
+    {
+        "group": 1,
+        "label": "PGD 22X",
+        "name": "RSW-195S PGD RWY 22"
+    },
+    {
+        "group": 1,
+        "label": "PGD 15X",
+        "name": "RSW-196S PGD RWY 15"
+    },
+    {
+        "group": 1,
+        "label": "PGD 33X",
+        "name": "RSW-197S PGD RWY 33"
+    },
+    {
+        "group": 1,
+        "label": "MKY 17X",
+        "name": "RSW-198S MKY RWY 17"
+    },
+    {
+        "group": 1,
+        "label": "MKY 35X",
+        "name": "RSW-199S MKY RWY 35"
+    },
+    {
+        "group": 1,
+        "label": "IMM 9X",
+        "name": "RSW-200S IMM RWY 9"
+    },
+    {
+        "group": 1,
+        "label": "IMM 27X",
+        "name": "RSW-201S IMM RWY 27"
+    },
+    {
+        "group": 1,
+        "label": "IMM 18X",
+        "name": "RSW-202S IMM RWY 18"
+    },
+    {
+        "group": 1,
+        "label": "IMM 36X",
+        "name": "RSW-203S IMM RWY 36"
+    },
+    {
+        "group": 1,
+        "label": "X14 14X",
+        "name": "RSW-204S X14 RWY 14"
+    },
+    {
+        "group": 1,
+        "label": "X14 32X",
+        "name": "RSW-205S X14 RWY 32"
+    },
+    {
+        "group": 1,
+        "label": "A54 5X",
+        "name": "RSW-206S FA54 RWY 5"
+    },
+    {
+        "group": 1,
+        "label": "A54 23X",
+        "name": "RSW-207S FA54 RWY 23"
+    },
+    {
+        "group": 1,
+        "label": "OVR 6",
+        "name": "RSW-301S RWY 6 OVERLAY"
+    },
+    {
+        "group": 1,
+        "label": "OVR 24",
+        "name": "RSW-302S RWY 24 OVERLAY"
+    },
+    {
+        "group": 1,
+        "label": "5 FMY",
+        "name": "RSW-500S FLCHK - FMY ILS OR LOC 5"
+    },
+    {
+        "group": 1,
+        "label": "4 PGD",
+        "name": "RSW-501S FLCHK - PGD ILS OR LOC 4"
+    },
+    {
+        "group": 1,
+        "label": "6V RSW",
+        "name": "RSW-502S FLCHK - RSW BAY VISUAL 6"
+    },
+    {
+        "group": 1,
+        "label": "6 RSW",
+        "name": "RSW-503S FLCHK - RSW ILS OR LOC/DME 6"
+    },
+    {
+        "group": 1,
+        "label": "PBI-10X",
+        "name": "PBI-026S PBI RWY 10L FINAL EXTENDED"
+    },
+    {
+        "group": 1,
+        "label": "PBI-10L",
+        "name": "PBI-027S PBI RWY 10L FINAL"
+    },
+    {
+        "group": 1,
+        "label": "PBI-14",
+        "name": "PBI-028S PBI RWY 14 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "PBI-28X",
+        "name": "PBI-029S PBI RWY 28R FINAL EXTENDED"
+    },
+    {
+        "group": 1,
+        "label": "PBI-28R",
+        "name": "PBI-030S PBI RWY 28R FINAL"
+    },
+    {
+        "group": 1,
+        "label": "PBI-32",
+        "name": "PBI-031S PBI RWY 32 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "PBI-32X",
+        "name": "PBI-032S PBI RWY 32 FINAL EXTENDED"
+    },
+    {
+        "group": 1,
+        "label": "PBI-10R",
+        "name": "PBI-033S PBI-RWY 10R FINAL"
+    },
+    {
+        "group": 1,
+        "label": "06FA-9",
+        "name": "PBI-035S 06FA RWY 9 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "BCT-5",
+        "name": "PBI-036S BCT RWY 5 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "BCT-23",
+        "name": "PBI-037S BCT RWY 23 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "F45-9R",
+        "name": "PBI-039S F45 RWY 9R FINAL"
+    },
+    {
+        "group": 1,
+        "label": "F45-14",
+        "name": "PBI-040S F45 RWY 14 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "F45-27L",
+        "name": "PBI-041S F45 RWY 27L FINAL"
+    },
+    {
+        "group": 1,
+        "label": "LNA-10",
+        "name": "PBI-042S LNA RWY 10 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "LNA-28",
+        "name": "PBI-043S LNA RWY 28 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "LNA-34",
+        "name": "PBI-044S LNA RWY 34 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "PHK-18",
+        "name": "PBI-045S PHK RWY 18 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "PHK-36",
+        "name": "PBI-046S PHK RWY 36 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "SUA-12",
+        "name": "PBI-060S SUA RWY 12 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "SUA-30",
+        "name": "PBI-061S SUA RWY 30 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "FPR-10R",
+        "name": "PBI-066S FPR RWY 10R FINAL"
+    },
+    {
+        "group": 1,
+        "label": "FPR-28L",
+        "name": "PBI-068S FPR RWY 28L FINAL"
+    },
+    {
+        "group": 1,
+        "label": "FPR10L",
+        "name": "PBI-069S FPR RWY 10L FINAL"
+    },
+    {
+        "group": 1,
+        "label": "FPR28R",
+        "name": "PBI-070S FPR RWY 28R FINAL"
+    },
+    {
+        "group": 1,
+        "label": "FPR-14",
+        "name": "PBI-071S FPR RWY 14 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "FPR-32",
+        "name": "PBI-072S FPR RWY 32 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "VRB-4",
+        "name": "PBI-073S VRB RWY 4 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "VRB-30L",
+        "name": "PBI-074S VRB RWY 30L FINAL"
+    },
+    {
+        "group": 1,
+        "label": "VRB-12R",
+        "name": "PBI-076S VRB RWY 12R FINAL"
+    },
+    {
+        "group": 1,
+        "label": "VRB-22",
+        "name": "PBI-077S VRB RWY 22 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "X26-05",
+        "name": "PBI-079S X26 RWY 5 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "X26-23",
+        "name": "PBI-080S X26 RWY 23 FINAL"
+    },
+    {
+        "group": 1,
+        "label": "PBI-C",
+        "name": "PBI-100S PBI CLASS C AIRSPACE"
+    },
+    {
+        "group": 1,
+        "label": "06FA-D",
+        "name": "PBI-200S 06FA CLASS D"
+    },
+    {
+        "group": 1,
+        "label": "VRB-D",
+        "name": "PBI-226S VRB CLASS D"
+    },
+    {
+        "group": 1,
+        "label": "BCT-D",
+        "name": "PBI-232S BCT CLASS D"
+    },
+    {
+        "group": 1,
+        "label": "SUA-D",
+        "name": "PBI-245S SUA CLASS D"
+    },
+    {
+        "group": 1,
+        "label": "LAKEO",
+        "name": "PBI-250S LAKE OKEECHOBEE"
+    },
+    {
+        "group": 1,
+        "label": "F11PAL",
+        "name": "PBI-251S F11 PALM SECTOR"
+    },
+    {
+        "group": 1,
+        "label": "MVA-3",
+        "name": "PBI-303S MVA FUS3"
+    },
+    {
+        "group": 1,
+        "label": "FUS-5",
+        "name": "PBI-304S MVA FUS5"
+    },
+    {
+        "group": 1,
+        "label": "W497A",
+        "name": "PBI-310S W497A"
+    },
+    {
+        "group": 1,
+        "label": "W497B",
+        "name": "PBI-311S W497B"
+    },
+    {
+        "group": 1,
+        "label": "MARION",
+        "name": "PBI-312S MARION MOA"
+    },
+    {
+        "group": 1,
+        "label": "AVON E",
+        "name": "PBI-313S AVON E"
+    },
+    {
+        "group": 1,
+        "label": "BASING",
+        "name": "PBI-314S BASINGER MOA"
+    },
+    {
+        "group": 1,
+        "label": "R2901",
+        "name": "PBI-315S RESTRICTED AREA 2901"
+    },
+    {
+        "group": 1,
+        "label": "VIP-TFR",
+        "name": "PBI-316S VIP TFR"
+    },
+    {
+        "group": 1,
+        "label": "VIP-MAR",
+        "name": "PBI-317S VIP MAR"
+    },
+    {
+        "group": 1,
+        "label": "PLACID",
+        "name": "PBI-319S PLACID"
+    },
+    {
+        "group": 1,
+        "label": "IR-020",
+        "name": "PBI-320S IR 020"
+    },
+    {
+        "group": 1,
+        "label": "IR-034",
+        "name": "PBI-321S IR 034"
+    },
+    {
+        "group": 1,
+        "label": "IR-051",
+        "name": "PBI-322S IR 051"
+    },
+    {
+        "group": 1,
+        "label": "IR-056",
+        "name": "PBI-323S IR 056"
+    },
+    {
+        "group": 1,
+        "label": "STM MAP",
+        "name": "PBI-324S STADIUMS"
+    },
+    {
+        "group": 0,
+        "label": "PBI-M",
+        "name": "PBI-401S PBI AIRSPACE"
+    },
+    {
+        "group": 1,
+        "label": "PBI-ATA",
+        "name": "PBI-406S PBI ATAS"
+    },
+    {
+        "group": 1,
+        "label": "M-ALL-E",
+        "name": "PBI-407S ALL FINALS EAST"
+    },
+    {
+        "group": 1,
+        "label": "M-ALL-W",
+        "name": "PBI-408S ALL FINALS WEST"
+    },
+    {
+        "group": 1,
+        "label": "FIXES",
+        "name": "PBI-409S ALL WAYPOINTS LABELED"
+    },
+    {
+        "group": 1,
+        "label": "B-EASTM",
+        "name": "PBI-410S B AIRSPACE EAST"
+    },
+    {
+        "group": 1,
+        "label": "B-WESTM",
+        "name": "PBI-411S B AIRSPACE WEST"
+    },
+    {
+        "group": 1,
+        "label": "I EAST",
+        "name": "PBI-412S I AIRSPACE EAST"
+    },
+    {
+        "group": 1,
+        "label": "I WEST",
+        "name": "PBI-413S I AIRSPACE WEST"
+    },
+    {
+        "group": 1,
+        "label": "A EAST",
+        "name": "PBI-414S A AIRSPACE EAST"
+    },
+    {
+        "group": 1,
+        "label": "A WEST",
+        "name": "PBI-415S A AIRSPACE WEST"
+    },
+    {
+        "group": 1,
+        "label": "P EAST",
+        "name": "PBI-416S P AIRSPACE EAST"
+    },
+    {
+        "group": 1,
+        "label": "P WEST",
+        "name": "PBI-417S P AIRSPACE WEST"
+    },
+    {
+        "group": 1,
+        "label": "MSID-E",
+        "name": "PBI-418S PBI SID EAST"
+    },
+    {
+        "group": 1,
+        "label": "MSID-W",
+        "name": "PBI-419S PBI SID WEST"
+    },
+    {
+        "group": 1,
+        "label": "MSTR-E",
+        "name": "PBI-420S PBI STAR EAST"
+    },
+    {
+        "group": 1,
+        "label": "MSTR-W",
+        "name": "PBI-421S PBI STAR WEST"
+    },
+    {
+        "group": 1,
+        "label": "BE-LBL",
+        "name": "PBI-422S B SID EAST"
+    },
+    {
+        "group": 1,
+        "label": "BW-LBL",
+        "name": "PBI-423S B SID WEST"
+    },
+    {
+        "group": 1,
+        "label": "IE-LBL",
+        "name": "PBI-424S I STAR EAST"
+    },
+    {
+        "group": 1,
+        "label": "IW-LBL",
+        "name": "PBI-425S I STAR WEST"
+    },
+    {
+        "group": 1,
+        "label": "PBI32WP",
+        "name": "PBI-434S PBI RWY 32 WAYPOINTS"
+    },
+    {
+        "group": 1,
+        "label": "HOLD",
+        "name": "PBI-438S HOLDING AIRSPACE"
+    },
+    {
+        "group": 1,
+        "label": "BCT-SID",
+        "name": "PBI-447S BCT SIDS"
+    },
+    {
+        "group": 1,
+        "label": "PE-LBL",
+        "name": "PBI-448S P STAR EAST"
+    },
+    {
+        "group": 1,
+        "label": "PW-LBL",
+        "name": "PBI-449S P STAR WEST"
+    },
+    {
+        "group": 0,
+        "label": "FVAP-M",
+        "name": "PBI-450S FVAP AIRSPACE"
+    },
+    {
+        "group": 1,
+        "label": "ST-S",
+        "name": "PBI-451S S AIRSPACE"
+    },
+    {
+        "group": 1,
+        "label": "ST-H",
+        "name": "PBI-452S H AIRSPACE"
+    },
+    {
+        "group": 1,
+        "label": "FVATA",
+        "name": "PBI-459S FVAP ATAS"
+    },
+    {
+        "group": 1,
+        "label": "OBE-RWY",
+        "name": "PBI-481S OBE RWYS"
+    },
+    {
+        "group": 1,
+        "label": "T-RTE-N",
+        "name": "PBI-490S T-ROUTES NORTH LABELED"
+    },
+    {
+        "group": 1,
+        "label": "T-RTE-S",
+        "name": "PBI-491S T-ROUTES SOUTH LABELED"
+    },
+    {
+        "group": 1,
+        "label": "T-RTE",
+        "name": "PBI-492S T-ROUTES WAYPOINTS"
+    },
+    {
+        "group": 1,
+        "label": "FLC-F45",
+        "name": "PBI-500S FLCHK - F45 ILS OR LOC 9R"
+    },
+    {
+        "group": 1,
+        "label": "FLC-10L",
+        "name": "PBI-501S FLCHK - PBI ILS OR LOC 10L"
+    },
+    {
+        "group": 1,
+        "label": "FLC-28R",
+        "name": "PBI-502S FLCHK - PBI ILS OR LOC 28R"
+    },
+    {
+        "group": 1,
+        "label": "FPR-10L",
+        "name": "PBI-503S FLCHK - FPR ILS OR LOC 10R"
+    },
+    {
+        "group": 1,
+        "label": "FLC-9",
+        "name": "PBI-504S FLCHK - 06FA ILS OR LOC 9"
+    },
+    {
+        "group": 1,
+        "label": "EMER",
+        "name": "PBI-911S EMERGENCY"
+    },
+    {
+        "group": 0,
+        "label": "BOUND",
+        "name": "NQX-001S NQX AIRSPACE BOUNDARY"
+    },
+    {
+        "group": 0,
+        "label": "EYW/NQX",
+        "name": "NQX-005S EYW/NQX CLASS D"
+    },
+    {
+        "group": 1,
+        "label": "GEO",
+        "name": "NQX-010S GEOGRAPHY"
+    },
+    {
+        "group": 1,
+        "label": "CAN DTA",
+        "name": "NQX-021S CANOA DTA"
+    },
+    {
+        "group": 1,
+        "label": "CAR DTA",
+        "name": "NQX-022S CARNU DTA"
+    },
+    {
+        "group": 1,
+        "label": "MAX DTA",
+        "name": "NQX-023S MAXIM DTA"
+    },
+    {
+        "group": 1,
+        "label": "VRG DTA",
+        "name": "NQX-024S VRGAS DTA"
+    },
+    {
+        "group": 1,
+        "label": "CAN ATA",
+        "name": "NQX-031S CANOA ATA"
+    },
+    {
+        "group": 1,
+        "label": "GIG ATA",
+        "name": "NQX-032S GIGIH ATA"
+    },
+    {
+        "group": 1,
+        "label": "JAN ATA",
+        "name": "NQX-033S JANKA ATA"
+    },
+    {
+        "group": 1,
+        "label": "MAX ATA",
+        "name": "NQX-034S MAXIM ATA"
+    },
+    {
+        "group": 1,
+        "label": "BIP REL",
+        "name": "NQX-041S BIPIN RELEASE AREA"
+    },
+    {
+        "group": 1,
+        "label": "GIR COR",
+        "name": "NQX-042S GIRON CORRIDOR"
+    },
+    {
+        "group": 0,
+        "label": "RSW CM",
+        "name": "RSW Cab Map Test"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "RSW Cab Map Test 2"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "RSW Cap Map Test 3"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM RSW"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM PBI"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM MIA"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM EYW"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM HST"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM HWO"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM OPF"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM PMP"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM TPA"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM FLL"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ASDEX FLL"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM TMB"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM FXE"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM BCT"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM FPR"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "CM SUA"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMA BDRY"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMA HO"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMA APCH"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMA APCH NE INTRNL"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMA APCH SW INTRNL"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "AIRSPACE-2"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "AIRSPACE-1"
+    },
+    {
+        "group": 1,
+        "label": "W-174E",
+        "name": "NQX-055S W-174E"
+    },
+    {
+        "group": 1,
+        "label": "R-2916",
+        "name": "NQX-052S R-2916"
+    },
+    {
+        "group": 1,
+        "label": "TORTUGA",
+        "name": "NQX-051S TORTUGA MOA"
+    },
+    {
+        "group": 1,
+        "label": "W-174B",
+        "name": "NQX-053S W-174B"
+    },
+    {
+        "group": 1,
+        "label": "W-174C",
+        "name": "NQX-054S W-174C"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "STAR ADDITION"
+    },
+    {
+        "group": 1,
+        "label": "TDM MAP",
+        "name": "TDM MAP"
+    },
+    {
+        "group": 0,
+        "label": "BASE",
+        "name": "NQX-002S NQX BASE"
+    },
+    {
+        "group": 1,
+        "label": "MID",
+        "name": "FLL-005S OUTAGE"
+    },
+    {
+        "group": 0,
+        "label": "FLL W",
+        "name": "FLL-002S WEST OPERATIONS"
+    },
+    {
+        "group": 0,
+        "label": "FLL E",
+        "name": "FLL-001S EAST OPERATIONS"
+    },
+    {
+        "group": 1,
+        "label": "TPAGRID",
+        "name": "TPA-271S"
+    },
+    {
+        "group": 1,
+        "label": "H-RNAV",
+        "name": "PBI-108S H-RNAV"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 06"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 02"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "GPDMAP - FILTER 02"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "OLCMAP - FILTER 03"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 05"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "GPDMAP - FILTER 11"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "OLCMAP - FILTER 12"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "OLCMAP - FILTER 10"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 20"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "SBSOLC - FILTER 19"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "OLCMAP - FILTER 09"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "SBSOLC - FILTER 20"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "SBSOLC - FILTER 13"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 01"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "SBSOLC - FILTER 10"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 13"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "SBSOLC - FILTER 09"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 16"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 11"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "GPDMAP - FILTER 01"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "OLCMAP - FILTER 11"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 08"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "SBSOLC - FILTER 11"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 10"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "OLCMAP - FILTER 13"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 12"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "OLCMAP - FILTER 19"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "OLCMAP - FILTER 08"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "OLCMAP - FILTER 07"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 07"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 15"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "SBSOLC - FILTER 12"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "GPDMAP - FILTER 04"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 17"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "OLCMAP - FILTER 20"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "SBSOLC - FILTER 18"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 04"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 19"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 14"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "SBSOLC - FILTER 08"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "GPDMAP - FILTER 03"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 03"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "OLCMAP - FILTER 02"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 18"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "ZMAMAP - FILTER 09"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "OLCMAP - FILTER 18"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "OLCMAP - FILTER 06"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "GPDMAP - FILTER 13"
+    },
+    {
+        "group": 0,
+        "label": "",
+        "name": "OLCMAP - FILTER 01"
+    }
+]

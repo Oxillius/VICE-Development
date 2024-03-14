@@ -26,5 +26,36 @@
   },
   "TPA TRACON ARRIVALS": {
     
+  },
+  "MIA TRACON DEPARTURES": {
+    "KMIA": {
+			"TOTAL": 29,
+      "FLMGO": 3,
+      "ALTNN": 3,
+      "FOLZZ": 5,
+      "BNGOS": 3,
+      "KLADA": 3,
+      "GWAVA": 4,
+      "GLADZ": 3,
+      "HURCN": 3,
+      "MAYNR": 2,
+      "DORRL": 0,
+      "LIFRR": 0,
+      "NNOCE": 0
+    },
+    "KFLL" {
+      "TOTAL": 23,
+      "FRSBE": 2,
+      "HROCK": 5,
+      "SNAPR": 2,
+      "REGAE": 2,
+      "BNICE": 4,
+      "AGERS": 2,
+      "MAYNR": 1,
+      "FEALX": 5,
+      "GLADZ": 0,
+      "DORRL": 0,
+      "LIFRR": 0
+    }
   }
 }
